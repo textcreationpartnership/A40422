@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Freedom of religious worship, or, The Iubilee of ordinances now all for free from their long bondage under the pænall laws, statutes, and ordinances of men : wherein is held forth, that worldly governments (parilamentary [sic] or military) have nothing to doe in the churches of Christ, neither ought to impose upon any, in any matters of faith or worship : and that the churches have nothing to doe with the governments of the world, but onely to submit to them, Rom. 13. [1?]. though in the hands of wicked men, and unbeleevers.</title>
+         </titleStmt>
+         <extent>Approx. 136KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40422</idno><idno type="EEBO-CITATION">19318097</idno>
+  <idno type="VID">108580</idno>
+  <idno type="EEBO-PROQUEST">2240864080</idno>
+  
+            <idno type="STC">Wing F2125A</idno>
+            <idno type="STC">ESTC R40421</idno>
+            <idno type="OCLC">19318097</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Freedom of religious worship, or, The Iubilee of ordinances now all for free from their long bondage under the pænall laws, statutes, and ordinances of men : wherein is held forth, that worldly governments (parilamentary [sic] or military) have nothing to doe in the churches of Christ, neither ought to impose upon any, in any matters of faith or worship : and that the churches have nothing to doe with the governments of the world, but onely to submit to them, Rom. 13. [1?]. though in the hands of wicked men, and unbeleevers.</title>
+               </titleStmt>
+               <extent>56 p., [1] leaf of plates : map.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Freedom of religion --  Great Britain.</term>
+               <term type="topical_term">Religion and state --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108580:1"/>
+            <pb facs="tcp:108580:1"/>
+            <p>Freedom of RELIGIOUS WORSHIP, OR, The IUBILEE of ORDINANCES. Now all set free from their long Bondage under the Paenall Laws, Statutes, and Ordinances of Men.</p>
+            <p>
+               <hi>Wherein is held forth,</hi> That Worldly Governments (Parliamentary or Military) have no<g ref="char:EOLhyphen"/>thing to doe in the Churches of Christ, neither ought to impose up<g ref="char:EOLhyphen"/>on any, in any matters of Faith or Worship; and that the Churches have nothing to doe with the Governments of the world, but onely to submit to them, <hi>Rom.</hi> 13. 1. though in the hands of wicked men, and Unbeleevers.</p>
+            <p>Contrary to the Opinion of the Papists, Praelats, Erastians, and others: vvho confounding the Powers of the Church and Common-vvealth (<hi>which are distinct</hi>) Forme an Ecclesiasticall Persecuting Magistracie, and a VVorldly Carnall Politique Ministery.</p>
+            <q>
+               <hi>Oportet esse Haereses,</hi>
+               <bibl>1 Cor. 11. 19.</bibl>
+            </q>
+            <q>
+               <hi>Haeretici exercent Ecclesiae sapientiaem. Tyranni paetientiam.</hi>
+               <bibl>Prosper.</bibl>
+            </q>
+            <q>
+               <bibl>Lactant. Iusti lib. 5. cap. 20.</bibl>
+               <p>
+                  <hi>Religio cogi non debet, verbis potius quam verberibus res agenda est, ut sit voluntas. Nemo a nobis colit in vitus, inutilu enim est Deo, qui devotione &amp; side caret.</hi>
+               </p>
+               <p>
+                  <hi>Defendenda religio est, non occidendo, sed moriendo. non saevitia sed patientia. Non tormentis, sed hortamentis no<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s age<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s. Si sanguine, si tormentis, religionem defendere velis, jam non defenditur illa, sed violabitur, nihil enim est tam voluntarium quam religio. Longe diversa sunt carnificina &amp; pietas, nec potest aut veritas cum vi, aut religio cum crudelitate conjungi.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Micha 4. 5.</bibl>
+               <p>All People will walke every one in the Name of his God, and we will walke in the Name of the Lord our God for ever and ever.</p>
+            </q>
+            <q>
+               <bibl>Joshua 24. 15.</bibl>
+               <p>And if it seem evill to you to serve the Lord, choose you this day whom ye will serve, whether the gods which your Fathers served, &amp;c. but as for me and my house we will serve the Lord</p>
+            </q>
+            <p>Printed in the Yeare since the Incarnation of our Lord God, Jesus Christ, blessed for ever, 1654.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:108580:2"/>
+            <pb facs="tcp:108580:2"/>
+            <p>
+               <figure>
+                  <figDesc>map of England</figDesc>
+                  <head>A TYPE OF ENGLAND.</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:108580:3"/>
+            <pb n="3" facs="tcp:108580:3"/>
+            <head>Freedome of Religious Worship, OR The Jubilee of Ordinances, <hi>Now all set free from their long Bondage under the Paenall Lawes, Statutes and Ordinan<g ref="char:EOLhyphen"/>ces of Men,</hi> &amp;c.</head>
+            <p>GReat and marvellous have been the workings of God in <hi>England</hi> (a Nation saved mightily by the Lord) such as deserve the highest prayses, admira<g ref="char:EOLhyphen"/>tions, and hallelujahs of Saints. Such a Scene of Providences hath been acted in the middest of these three Nations, <hi>England, Scotland,</hi> and <hi>Ireland,</hi> (as upon a high The<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tre of Glory) as hath put all the World in an amaze, the fame whereof hath been transported into all Lands, so far as the Sea hath any waves; for both Sea and Land hath seen the dreadfull glory of the Lord, the wonders of God, the works of his right hand, such as have not been seen in the World, since <hi>Jehovah</hi> did wondrous works in the Land of <hi>Ham,</hi> and terri<g ref="char:EOLhyphen"/>ble things by the red Sea, when he brought his People out of the Egyptian bondage. By weak and contemptible instruments (the Parliament, the new Modell) God hath broken to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eces all the opposition of the mighty people at home and abroad (for all Nations round about have been (and yet may be) against <hi>England</hi>) and layd in the dust the pride of the terrible ones, discovered all their plots contrived with the greatest policy and secrefie. Who would have thought <hi>England</hi> could have stood to this day, considering the variety of plots abroad, of divisions, contentions among our selves at home? yet now, scarce the least print of warre to be seen any where, such plenty and abundance every where, which is admirable. No Nation upon
+<pb n="4" facs="tcp:108580:4"/> Earth can compare with <hi>England,</hi> in which Christ hath so many Churches, his Palaces of delights, his Houses of State and Ho<g ref="char:EOLhyphen"/>nour) for mercies, for Victories for priviledges for providen<g ref="char:EOLhyphen"/>ces; God hath gloriously arisen in dread and Majesty, most magnificently he hath been displaying the banners of his power and greatnesse: in his mighty contendings for us by Sea and Land, against Enemies of all sorts professed, disguised. Can such a structure of glory as this is be layd in the dust? If God should cast it all downe, yet would he out of the dust and ashes of it ere<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t one more glorious? should be destroy us (so whom he hath dane so great things) yet would he out of our blood cause to spring up another generation more fitted to his great designes (even as out of the slaving the Witnesses, <hi>Rev.</hi> 11. shall spring up the greatest glory that ever the world saw.) But as yet, nothing hath been ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to stay his Chariot Wheeles, or hin<g ref="char:EOLhyphen"/>der him in this Circuit of his glory, which he is to goe on in to the ends of the Earth, rejoycing as a Gyant to run his race; and <hi>Rome, France, Spaine,</hi> and all Nations guilty of the blood of persecution, shall sooner or later frele this day of his power. The mountains (the powers of the Word) shall all m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l before his glorious presence, and the neerer the comming of Christ is; the more shall the Earth tremble and be as the Chaffe of the Mountaine before the Winde, and as a rowling thing before the Whirle-winde, <hi>Isay</hi> 17. 13. But the mountaine of the house of the Lord, shall be in the last dayes upon the top of the mountains. <hi>Isay</hi> 2. 2, and the neerer the Sunne of Righteous<g ref="char:EOLhyphen"/>nesse approaches, the greater shall be the glory of holinesse up<g ref="char:EOLhyphen"/>on the Sain<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Churches. Let not us of this generation ad<g ref="char:EOLhyphen"/>mire our attainments, but be humble; the glory of the ne<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will shame us, and put it all downe, and in comparison of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we shall be but dwarses.</p>
+            <p>What is yet in the wombe of Time (whether an <hi>Es<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> of per<g ref="char:EOLhyphen"/>secution may not come forth) we know not; <hi>Secret things be<g ref="char:EOLhyphen"/>longs to God.</hi> We can but speak of things as they are brought forth. The wisest men in these dayes have been non plust, the deepest Polititians confounded, not knowing what to think or say, We should be unbeleeving, and thinke too low of Christs designes in the world; if we imagine we are come up to the
+<pb n="5" facs="tcp:108580:4"/> Top of the glory of them. We should be unthankfull, if we should not acknowledge with all prayses, what God hath been doing in <hi>England, Scotland, Ireland,</hi> against the Anti-christi<g ref="char:EOLhyphen"/>an, persecuting State. It is no ordinary piece of businesse that God hath been doing in <hi>England,</hi> but a matter of very rare importance, and which holds proportion with the great esfu<g ref="char:EOLhyphen"/>sion and expence of blood that hath been shed. But all comes short of what Christ intends yet further to doe (and not one jot of any promise shall be left undone) in the world; for all that hath bin done in <hi>England,</hi> is nothing to what Christ hath to doe in the world, though he may make <hi>England</hi> his threshing Instrument to thresh the Nations for their oppressions and per<g ref="char:EOLhyphen"/>secutions. For here first he hath begun to breake the Bow, and the speare of warr; here he hath crushed the great Leviathan, and saved us from the Lyous mouth, from the hornes of the Unicornes, <hi>Psal.</hi> 22. 21. and he will not ungirt his sword from off him (let him choose Instruments, whom, and where he pleaseth) till he hath taken full vengeance of all the bloody, per<g ref="char:EOLhyphen"/>secuting, oppressing powers of the world, Popish, Protestant, or Turkish.</p>
+            <p>We are now dividing the spoyle of those Prayers long since put up, and which have seemed long to lye registred in Heaven for many Ages. We may say, Christ hath given us not to the one halfe (as <hi>Herod</hi> offered his <hi>Herodias</hi>) of what we asked, but beyond all we put downe in our Petitions. And whatsoever it is that the Saints are now praying for at this day in order to Christs Kingdome, shall most certainely be accomplished, let it seem never so improbable, unpossible to worldly wise and ra<g ref="char:EOLhyphen"/>tionall men. Onely let us not be mistaken in the time of Christs great designes in the world, and the nature of them, calling those times the Kingdome of Christ, which are searce worthy to be called glympses of that glory. For this worke in <hi>England</hi> may be compared to some Pictures that have a don<g ref="char:EOLhyphen"/>ble Face; looke upon one side of them, and that represents the Face of a beautifull Virgin; one the other side, an ugly Owle: So look on the one side of this worke, the Face of Providen<g ref="char:EOLhyphen"/>ces is very glorious and beautifull; on the other side may be seen such abundance of selfe Interest, selfe-Advancement, as
+<pb n="6" facs="tcp:108580:5"/> seems to deforme all the glory and luster of Providences.</p>
+            <p>Our worke now, is to be praysing for pa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> providen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, to submit to present Governments, to prepare for future Tryalls, which yet may attach us.</p>
+            <p>Let us look back, and compare our prayings, contendings <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ese fifteen yeares last past, with the series of providences, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God hath gone on in many strange and various methods <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> (such as none can trace him in, and which have <gap reason="illegible" resp="#keyers" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> men) yet we shall finde a sweet harmony and <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> between our Prayers and Gods providences. VVhat <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> have we seen with in the compasse of one yeare, <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> a drop of blood spilt) such as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arnall reason <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> given <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for lost? and yet in them all, we see the pil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> of cloud (which hath gone along with our <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> and Armies all this while, when weakest and low<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appearing, going before us, and conducting us; and <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> change untill now, Anti-Christs power hath been on <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hand. The great Parliament pulled downe, the high<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> of <hi>Babylon</hi> in this Nation, whose foundations were very an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ient, whose structures were compacted with the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> power, policy, learning, pretences to Religion that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of man could devise. The last Parliament also (though lock<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d on as an abortive) strucke downe one of her highest pinacles, <hi>viz. Marriaged by the Clergy;</hi> a meere <hi>Popish</hi> device, not having the least warrant in Scripture, being onely a civill thing, not Religious, <hi>Ruth,</hi> 4, 9. (and so belonging onely to the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sagistrates Office) which yet the <hi>Pope</hi> (the head of <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> who confounds all things Civill and Religious) hath <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made to be an Ecclesiasticall businesse, and so Baptized it with the name of one of his <hi>Seven Sacraments.</hi> And pro<g ref="char:EOLhyphen"/>bable it is, succeeding Parliaments may still pluck some Feather or other out of the VVhores power and pompe, untill they leave her bare and naked. In the same methods and degrees that her risings were (for that Beast rose out of the Earth, <hi>Rev.</hi> 13. out of earthly, temporall, magistraticall power) shall her fallings be, but more violent and quicke. Every Age will dis<g ref="char:EOLhyphen"/>cover somewhat new of her whoredomes, and it may be the holy Ghost in the number 666. <hi>Rev.</hi> 13. 18. doth point at the
+<pb n="7" facs="tcp:108580:5"/> yeare 1666. wherein some notable and cleare discovery of her false worships (of the marke and name of the Beast) may be made, than ever was before, and then many things may appear to be of her, which now we little think to be so, but goe for currant worship. Let who will put their shoulder under (as some, even godly men, in every Age have done) to keep up some piece of Anti-Christ, yet every sticke of the glory and order of her stately Throne shall tumble down, and not a stone left upon a stone of all that faire and admired Edifice. VVhat a terrible hot Viall already hath been powring out (and so long as the Vialls are powring out, nothing will be, but strange confu<g ref="char:EOLhyphen"/>sions and alterations in the world, untill the seventh Viall, which shall be the comming and appearing of Christ) upon Ec<g ref="char:EOLhyphen"/>clesiasticall Revennues as Bishops, Deane and Chapters Lands, Tythes, &amp;c. also upon Kingly and Magistraticall power, so sar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as any way subservient to the Clergicall pontificall power, which <hi>Bullinger</hi> rankes under the sixth viall powred out upon the River <hi>Euphrates,</hi> Rev. 16. <hi>Quia Euphrates Babylonem m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nieb<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, commoditates afferebat. Significatur ergo hic per Euphratem opes, munitiones, commoditates, &amp; vectigalia (quae sacra vocant) Roman<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ecclesiae.</hi> But a late worthy Author (who hath made a holy and humble Essay upon the Exposition of the seven Vialls, in a Booke Intituled, <hi>Generation-worke</hi>) more truely shews the force of that viall to light upon the great and va<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>Turkish Empire.</hi> However those things may not yet be so clear, yet certain it is, the powring out of the vialls will produce such strange, and unexpected effects, such a shaking of all the Inte<g ref="char:EOLhyphen"/>rests of men, as will much trouble many great pretenders to Christs Day, such as the <hi>Scribes and Pharisees</hi> were who seemed with greatest earnestnesse to long for the comming of the Mes<g ref="char:EOLhyphen"/>sias in the Flesh, of whom they were the greatest opposers.</p>
+            <p>God hath now extraordinarily raysed up a Government, in which is fully summed up and comprehended (as may be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the modell it selfe) all the old principles of Liberty and pro<g ref="char:EOLhyphen"/>priety (in opposition to Tyranny, Praelacy, and persecution) that we have been so long contending for in blood. Nothing is left out of those Interests that are so deare to us. But the first Borne of them all, and that which Crownes all the rest, is
+<pb n="8" facs="tcp:108580:6"/>
+               <hi>Liberty of Conscience</hi> (now a Fundamentall of Government) <hi>in the things of Gods Worship,</hi> all paenall Lawes, Statutes, and Ordinances being made null and voyd, and so all persecution for differences in Religion (the rock upon which so many Mo<g ref="char:EOLhyphen"/>narchies have been Ship-wrackt) wholly taken away, and re<g ref="char:EOLhyphen"/>moved. What more can be desired in any Government? if blind zealots, fawning and persecuting spirits doe not supplant it, by engaging afresh the powers to impose in matters of Re<g ref="char:EOLhyphen"/>ligious concernments. Its blessed to see powers inviting, and exhorting people to attend Ordinances publique and private, (as in the late sweet Declaration, <hi>March</hi> 20. 1653. and as it is prophesied it shall be in the last dayes, <hi>Micha</hi> 4. 2.) but force and compell, they cannot, without offering a sacrilegious violence to holy things.</p>
+            <p>And how can any, not somewhat Popishly and Praelatically affected, be discontented at a Government, so every way tender, and that affords its shadow of protection equally to all living in subjection to its Civill Lawes. Needs must it be the spirit of <hi>Pharaoh</hi> (pursuing escaped <hi>Israel</hi>) some of the old malignant Praelaticall designers, (seeking by new plots to bring us back to the old house of bondage under Tyranny, Praelacy, and perse<g ref="char:EOLhyphen"/>cution) who conspire against, and labour to corrupt the princi<g ref="char:EOLhyphen"/>ples of such a Government.</p>
+            <p>Let us look about us to other Nations, groaning under heavy persecutions; or look back upon our own condition under the late Praelates, and how should all the hearts and soules of the Saints, all the Churches of Christ, ring with prayses to Jeho<g ref="char:EOLhyphen"/>vah, to enjoy such a liberty of worship in <hi>England,</hi> to see such a day of Jubilee to all Ordinances of God, now all redeemed from the Lawes and Ordinances of men, under which they have these many hundred years prophefied, as it were in sackcloth, and been as the vessels of the Sanctuary in <hi>Babylon?</hi>
+            </p>
+            <p>Two things have made some (especially of the Clergicall stamp) so much formerly to cry up Regall Power, <hi>viz.</hi> The more effectuall suppression of Haeresies; and the advance of the Carnall Power and Interest of the Clergy, who in all Nations almost have such powerfull influences upon the soules and con<g ref="char:EOLhyphen"/>sciences of men, that they Rule all, Church and Common<g ref="char:EOLhyphen"/>wealth,
+<pb n="9" facs="tcp:108580:6"/> soules and bodies of men, and whatsoever state (for those deep students of <hi>Machia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill,</hi> by their correspondencies, easily p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y into the humors, constitutions, Interests, tempers, inclimations of all Civil Governments) doth not comply with their politique and worldly interests, they pronounce dread<g ref="char:EOLhyphen"/>full excommunications against them, or send forth some Rava<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the Popes benediction to stab, or plot some Gun<g ref="char:EOLhyphen"/>powder treason, or execute some Irish Massacre for the propa<g ref="char:EOLhyphen"/>gation of the Catholique Cause, or suggest some <hi>Scottish</hi> In<g ref="char:EOLhyphen"/>vasion in behalfe of Kirke and Covanant.</p>
+            <p>Toleration i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> indeed much cryed out against by rigid spirits, who would have every mans conscience brought to their state<g ref="char:EOLhyphen"/>last, whereas they themselves can easily conforme to any Reli<g ref="char:EOLhyphen"/>gion the State is of, and be for a Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e book to day, and a Com<g ref="char:EOLhyphen"/>mon-Prayer-book tomorrow, and a Directory the third day, &amp;c. like <hi>Paulet,</hi> Marquesse of <hi>Winchester,</hi> who served K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng <hi>Henry</hi> the eight, <hi>Edward</hi> the sixth, Queene <hi>Mary,</hi> and Queene <hi>Elizabeth,</hi> and was of the Religion of them all; and being asked, how he could stand in so many changes answered, <hi>Or<g ref="char:EOLhyphen"/>tus sum ex Salice, non ex Quercu,</hi> I am made of a Willow not of an Oake. A godly man will be most rigide against his owne personall errors and evils, the wickednesses of his owne heart, which he will be dayly persecuting to Death. by the constant renewed actings of repentance, and Faith in the blood and merits of Christ; bu h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> carries such a spirit of gentlenesse and meeknesse towards all others, (therein resembling Christ) that he seeks to reduce those that are out of the day of Truth, by holy instruction pure and heaven'y conversation onely, no rule he finds to ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, molest, fyne, imprison others for any dissent whatsoever, from the Christian Faith; yea, though it amount to the rejection of Christ, or the blasphemy against the holy Ghost. If men would but look upon Toleration (as it is op<g ref="char:EOLhyphen"/>posed to persecution) in the glasse of Scripture, it would ap<g ref="char:EOLhyphen"/>peare no such ugly thing as men have imagined but to be most consistent with all the rules of Government both in the Church and in the World.</p>
+            <p>Let any Christian sober mynded man weigh and ponder these Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fiderations.</p>
+            <p n="1">
+               <pb n="10" facs="tcp:108580:7"/>1. Such as pretend to a coercive power in matters of Reli<g ref="char:EOLhyphen"/>gious worship, what would they compell men unto? It must be either to false worship, as <hi>Turkes, Papists, Praelats, &amp;c.</hi> doe; or to true worship. They ought not to false worship; they can<g ref="char:EOLhyphen"/>not to true; for God will have none, but such as worship him in Spirit and Truth, <hi>Iohn</hi> 4. Such enforcers to worship must be godly men or wicked. For one godly man to impose upon another, is great pride: is against love and forbearance. For a godly man to impose upon a wicked man, is unchristian. For a wicked man to impose upon a godly man, is Tyrannicall. Men may pretend the good of others, so the Idolatrous Hea<g ref="char:EOLhyphen"/>thens did pretend the good of Christians, in forcing them to worship their Idols. <hi>Lactantius,</hi> lib. 5. cap. 20. answers, <hi>Illi in persequendis nobis fingunt se nob<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> consulere, nos ad bonam mentem vel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e revocare, non est beneficium quod ing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ritur recu<g ref="char:EOLhyphen"/>santibus.</hi> Forced Religion is no Religion. Christ cares not for multitude of seeming worshippers, but for sincere worshippers, though few, but two or three, <hi>Mat.</hi> 18. His worshippers must not be compelled by Lawes, but by Love. Againe, who are they that Magistrates should compell? It must be either those of the Church, or those of the world. Those of the Church need not be compelled; those of the world ought not to be compelled to Prayer, Baptisme, Sabbath, &amp;c. Christ abominates hypocrites of all others, and will men force such to holy things, whose in<g ref="char:EOLhyphen"/>cense is abomination? Compulsion makes a world of hypo<g ref="char:EOLhyphen"/>crites; Liberty discovers them. Paenall Lawes may keep up a hypocriticall uniformity; but they will never change mens hearts: Hypocrites will still be Hypocrites, and Saints will be Saints still.</p>
+            <p n="2">2. No Basis of worldly Government can be more honoura<g ref="char:EOLhyphen"/>bly, rationally, justly, firmely, safely layd, than upon <hi>Liberty of Conscience.</hi> Where that is taken in as a fundamentall, hardly can ever that Government miscarry or prove tyrannicall. The common Opinion of the world is, <hi>Suffer toleration, and Go<g ref="char:EOLhyphen"/>vernment cannot stand;</hi> Just so the Jews, <hi>Suffer this man, Christ, and the Romans will come and take away our Nation.</hi> That very course they thought to save their Nation by, they lost it. So forcing all to one and the same Religion to Polititians seems
+<pb n="11" facs="tcp:108580:7"/> safest, but it hath been the breake-neck of the strongest Go<g ref="char:EOLhyphen"/>vernments. All Governments are alike lawfull, by Gods Words but that Government is most complying with the Word of God, and so of the best and strongest constitution, that is least forcing, or persecuting, and which yeelds the most universall influence of Justice, and protection to the persons, estates, liber<g ref="char:EOLhyphen"/>ties of all men, who keep within the bounds of Civill Peace, and Order. The more forcing any Government is, the lesse Christian it is. No Religion is dangerous to a State, but that which forceth. The <hi>Amorites,</hi> who were Heathen, suffered <hi>Abraham</hi> (one of a different Religion from them) to dwell peaceably in their Country, <hi>Gen.</hi> 14. 13. The wise and Potent States of <hi>Holland</hi>—by long experience, have found no danger, but much increase of wealth and Trade, to accrue by the permission of all Religions. The Jews, that were once the most Persecuting Nation, are now become as vagabonds in all Nations. The Religion which the Gospel teaches, is consistent with all kinds and formes of Governments whatsoever; for it praetends to no outward force and compulsion, but principles men to render due subjection to all higher powers.</p>
+            <p n="3">3. Idolatry, false-Worship, Haeresie, doth not deprive men of their common Birth right to the priviledges of the world. God hath given the Earth to the children of men, <hi>Psal.</hi> 115. 16. to wicked men, to unbeleevers, and false worshippers, and a right they have (a civill right, though not a covenant-right) unto the good things of it (as well as the godly) of which nothing can dispossesse any of them, but onely such acts as are against the light of nature, as disobedience to Parents, mur<g ref="char:EOLhyphen"/>ther, buggery; or such as are destructive to the good of humane Society as Thefts, Adulteries, Rapes, Felonies Burglaries, Op<g ref="char:EOLhyphen"/>pressions: or such as strike at the order and peace of civil Go<g ref="char:EOLhyphen"/>vernments, as Treason, Sedition, Rebellion. The Jews indeed had a Law to cut off Blasphemers, false worshippers, (and yet that nation was most addicted to Idolatry, but such commands doe reach the Nations of the Gentiles, no more then those commands of making no league with the Nations. <hi>Deut. 7. 3. Iudges</hi> 2. 2. for the Gentile-Nations may make warr or peace with any Nation, according as their Nationall and common In<g ref="char:EOLhyphen"/>terests
+<pb n="12" facs="tcp:108580:8"/> doe most require. Neither may one Nation of the Gen<g ref="char:EOLhyphen"/>tiles make warre against another Nation upon the account of Religion solely. What was the issue of the Popes holy warrs against the <hi>Turke?</hi> of the <hi>Spanish</hi> Armado sent to reduce <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to the obedience of the See of <hi>Rome?</hi> of the Bishops war to set up the <hi>Common Prayer-Booke</hi> in <hi>Scotland?</hi> of the <hi>Scots</hi> warr against <hi>England,</hi> to set up their Covenant-reformation and suppresse Sectaries, Schismatiques, Haeretiques. How sharp<g ref="char:EOLhyphen"/>ly did God rebuke those high pretenders (the <hi>Scots</hi>) and break their Bow in the day of Battell, even to astonishment.</p>
+            <p n="4">4. It is not in the power of any man to convince another mans Conscience. One mans Conscience is for a seventh dayes Sabbath, (which was constantly observed by the Church at <hi>Ierusalem,</hi> forty years after the Death of Christ, even till the destruction of that City; for the Jews converted, and uncon<g ref="char:EOLhyphen"/>verted at <hi>Ierusalem,</hi> observed all one Sabbath.) Another mans Conscience is for a first dayes Sabbath (which they call, <hi>The Lords Day,</hi> because of Christs Resurrection upon that day; whereas there is not the least command in Scripture (which holds out onely one Sabbath under Old and New Testament) to keep a Sabbath with any respect to Christs Resurrection. more than to his Crucifixion and Ascension; and from this mistake, came up the old Easter-superstition.) One mans conscience is for Baptizing the Children of a whole Parish, and Nation; another mans, of Beleevers children onely: Another mans, of confessing Beleevers onely, who makes out their being in the Covenant of Grace by a work of grace upon their hearts, and so professing Repentance towards God and Faith towards our Lord Jesus Christ. Yet all these are Brethren, agreeing in the fame saving principles of the Gospel, <hi>the Father, the Sonne, and the holy Ghost, Sacraments, Faith, Repentance, Iustification, Re<g ref="char:EOLhyphen"/>surrection of the body &amp;c.</hi> Againe, one is a <hi>Mahometane,</hi> ano<g ref="char:EOLhyphen"/>ther a <hi>Iew,</hi> another a <hi>Papist</hi> (who all agree in persecution;) one denyes Christ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be true God, another to be true man (af<g ref="char:EOLhyphen"/>firming his very fresh, once Crucified, to be upon a thousand Altars at once) whereas no Faith is saving and sanctifying, but that that eyes Christ at God-Man, the Eternall Sonne of God, ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> borne of the Virgin <hi>Mary,</hi> which Faith to worke in any,
+<pb n="13" facs="tcp:108580:8"/> none can challenge power, no more then to command the Seas, and the Wind, for the spirit blowes where he listeth, and works this wonderfull beliefe where he pleaseth. As for the common Faith of those things, its thinking onely, not beleeving; fan<g ref="char:EOLhyphen"/>cy, not Faith; and the same persons that talke of Christ, would beleeve <hi>Mohomet</hi> as much, had they been educated under his wicked, Ceremonies. For what, alas; is most of the Religion of the world, but Force, Custome, and Education? Some againe blasphemously, question whether Scripture be the Word of God (though miserable deluded soules they are, that cannot see the transcendent glory that shines in holy Scripture (the power of God, and the wisedome of God to our salvation) above all the writings of men whatsoever, which are no more worthy to be compared to Scrip<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure, then a Glow-worme is to the Sunne) but who (notwithstanding the infinite Truth, and excellency of it) can perswade a mans Conscience, and make him subscribe to the truth of it, which Faith onely acknowledgeth, and is be<g ref="char:EOLhyphen"/>longing onely to the soveraignty of Christ to worke. Now to persecnte, kill and slay such unbeleevers (who are reserved to blacknesse of darknesse, without repentance) what rule of Christ for it?</p>
+            <p n="5">5. Whatsoever threatens force and violence, is not of the Lambe, but an appurtenance of the Beast and the Dragon. Christs Commission is, <hi>Goe and Teach;</hi> Anti-christs, <hi>Goe and Force.</hi> Christs Embassadors are not sent out with Whips and Pillories, Rackes, Fynes, and Imprisonment, &amp;c. fitter all for the Religion <hi>Mahomet,</hi> and the <hi>Pope,</hi> than the sweet Doctrine of <hi>Christ,</hi> who will have no forced worshippers, no imposed Orninances. The weapons of the Gospel, are wooings, be<g ref="char:EOLhyphen"/>seechings, intreaties to accept of <hi>Christ,</hi> and to be reconciled, and they are mighty, through God, to pull downe strong holds of blasphemy and unbeleefe. But never did <hi>Christ</hi> or the <hi>Apo<g ref="char:EOLhyphen"/>stles</hi> incense and provoke Magistrates against any sort of reje<g ref="char:EOLhyphen"/>cters of their blessed Doctrine.</p>
+            <p n="6">6. Forcing men against their consciences what dolefull ef<g ref="char:EOLhyphen"/>fects hath it brought forth, as we may see in <hi>Francis Sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra,</hi> (who after his recantation, and subscription, for a long time together, endured a very Tophet in his conscience, and was a
+<pb n="14" facs="tcp:108580:9"/> picture of one in hell) and in Dr. <hi>Knaus</hi> (whom <hi>Luther</hi> men<g ref="char:EOLhyphen"/>tioneth) who miserably cryed out, that he had denyed <hi>Christ,</hi> and saw him pleading with the Father against him (though that was a most Satannicall delusion, contradictory to the Gos<g ref="char:EOLhyphen"/>pel, misrepresenting <hi>Christ,</hi> whose proper office, and onely bu<g ref="char:EOLhyphen"/>sinesse in Heaven, is to be a Mediator and Advocate to pleade the cause of poore guilty sinners with the Father) and so at last, after many lamentable and dreadfull out-cryes <hi>that he was damned,</hi> he became his own Executioner. <hi>Cranmer</hi> also was forced to subscribe, but the Lord was mercifull to him, and re<g ref="char:EOLhyphen"/>covered him, so as he witnessed to the Truth with his blood, making that hand first feele the fire, that had so unworthily sub<g ref="char:EOLhyphen"/>scribed. Many more examples of that kinde there are, of men who through feare have gone against the light of conscience, which if it once be set on fire, no fiery furnace, no rackes, tor<g ref="char:EOLhyphen"/>ments in the world like it; nothing but the infinite satisfying blood of <hi>Christ</hi> dropt on it, can quench and put out that fire.</p>
+            <p n="7">7. How unsutable to the holy and spirituall method of the Gospel, are Fynes, Banishments, Beatings, Imprisonments, &amp;c. Those usually harden men, procure credit and authority to their H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reticall Doctrines, and multiply Disciples and Followers to their persecuted Opinions, make them more obstinate, rather then convince them, which is the designe of the Gospel. Persecution doth but rayse and heighten sturdy and generous sperits as King <hi>James</hi> wisely ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erves in his Book to the Prince. To persecute error, is to put the livery of Truth upon it. The Bonds of <hi>Paul</hi> were as famous as his Preaching. As much of the glory of Truth hath shined out of Prisons, as out of Pul<g ref="char:EOLhyphen"/>pits; people are apt to inquire after, and examine what they heare others fuffer for, which else they would be regardlesse of. Its Satans policy to rayse up persecution, even against Error, that so he may spread it, and bring it into request. Never did per<g ref="char:EOLhyphen"/>secution extinguish any Error, for it is no way of the Gospel. The Gospel reaches to consume Heresies by the fire of the Word, not to make Lawes, <hi>De comburendis Haereticis,</hi> as the Pope doth. The Gospel will not have mens lives, estates, liber<g ref="char:EOLhyphen"/>ties, exposed to ruine, because of mens unbeleefe, or disobedi<g ref="char:EOLhyphen"/>ence to those wayes of worship it enjoyneth. The Gospels
+<pb n="15" facs="tcp:108580:9"/> worke, is not to meddle with men money, and coffers, (in case of non-submission to its blessed Ordinances) but to deale with mens minds and consciences, sweetly to insinuate, per<g ref="char:EOLhyphen"/>swade, allure mens hearts. The Gospel doth not set up any In<g ref="char:EOLhyphen"/>quisition-house, stockes, Pillories for despicing its commands, but as it offers <hi>Christ</hi> freely upon the easiest, reasonablest termes to all poore sinners, so it denouneeth the hottest wrath to all rejecters of <hi>Christ,</hi> or unbeleevers, (that trample his blood and merits under their feet) the blackest doome to all that worship the Beast and his Image, warning men upon paine of eternall damnation, of being cast into the lake of fire for ever, 2 <hi>Thes. 1. 8. 9. Rev.</hi> 19. 20. The very dust of the feet of the poore despised Apostles, shaken off against <hi>Christ</hi> rejecters, <hi>Mat.</hi> 10. 14. was more terrible then all the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ortures of the Hellish In<g ref="char:EOLhyphen"/>quisition house, which the Saints and Martyrs of Jesus have gloriously triumphed over, through Faith, and the hope of glo<g ref="char:EOLhyphen"/>ry in them.</p>
+            <p n="8">8. <hi>Liberty of Conscience,</hi> is the most Gospel expedient for uniting of Saints, a thing so desireable to all the godly. Ex<g ref="char:EOLhyphen"/>perience shewes the sad and dolefull divisions which uniformity hath bred. All the learned Treatises, subtile Arguments that have been writ <hi>pro</hi> and <hi>con,</hi> about Episcopacy, Ceremonies, Common-Prayer-Booke, Parochiall and Nationall Churches, Ordination, &amp;c. could never convince either party to this day. What heart-burnings, animosities, seditions in inferiors? what pride, disdaine contempt, undervaluing in superiors, and others of the State way did such Paenall enforcements to uniformi<g ref="char:EOLhyphen"/>ty beget and nourish? How did the Episcopall man in his time. sleight the Presbyterian; and the Presbyterian the Inde<g ref="char:EOLhyphen"/>pendent? How bitter was one way against another, Brethren contending against Brethren (and that oft for very panctilio's) and so insulting, domineering one over another, labouring one to overturne another, as each had the favour of the Civil Sword. Now all may be brought at least to put on more ami<g ref="char:EOLhyphen"/>ciblenesse and sweetnesse to each other, if not to a neerer cloze.</p>
+            <p n="9">9. What Law or Statute had the Doctrine and Baptisme of <hi>John Baptist,</hi> and <hi>Christ,</hi> (which was accounted but a Sect<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y
+<pb n="16" facs="tcp:108580:10"/> the <hi>Scribes and Pharisees,</hi> as pure worship is now accounted by the world) all the time of the Apostles and Primitive <hi>Churches?</hi> If <hi>Christ</hi> had so liked of humane Lawes, he could have caused his commands to have been entered and recorded in all the sta<g ref="char:EOLhyphen"/>tute-books of Kings and Princes, but that had been a disparage<g ref="char:EOLhyphen"/>ment to the high authority of the supreame Law-giver. <hi>Maho<g ref="char:EOLhyphen"/>mets,</hi> the <hi>Popes Doctrine,</hi> need these poore shifts. Supersiition, Tradition, will-worship, needs Laws to preserve their esteeme in the world; not the commands of <hi>Christ</hi> which are powerfull and mighty of themselves, 2 <hi>Car. 10. 4. 5. Valet vi suâ Evan<g ref="char:EOLhyphen"/>gelium.</hi> The subject of humane Lawes is onely matters of wrong and wicked lewdnesse. <hi>Acts</hi> 18. 14. Laws of Princes may state all matters of <hi>meum &amp; tuum,</hi> and declare what Treason, what Rape, what Burglary, what Felony is, &amp;c. not what Hae<g ref="char:EOLhyphen"/>ri<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, what Schismes, what True and false worship; what one thinks is Haeresie, another thinks is Truth, <hi>Acts</hi> 24. 14 What one Age condemnes as Haeresie, another we see cryes up for Truth. Grant it be a Truth, or a true Ordinance that is by Law imposed, (though I know none ever was) yet such imposition makes it look like an Ordinance of Anti-Christ. If it be an Error, Haeresie, the Law punishes, such punishments make one<g ref="char:EOLhyphen"/>ly Martyrs for Satan to boast of. Never were Lawes made about Religion, but they occasioned Persecution at one time or other; and made the powers dash against the <hi>Church</hi> to their owne ruine, as we may see in Queen <hi>Elizabeths</hi> Laws, which ensnared the best Saints; others can conforme to any Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p n="10">10. Imposing upon, and compelling others, must presup<g ref="char:EOLhyphen"/>pose a spirit of Infallibility, such as was in the Apostles, <hi>Acts</hi> 15. 28. but that none (at least) pretends unto but the Pope and the Quakers. Councells, Churches, &amp;c. have all erred to this day. The Scripture is an absolute perfect, infallible rule in all points concerning Faith and worship; but no man is absolutely infallible in his interpretation of every Text of Scripture <hi>For we know but in part, and Prophesie in part,</hi> 1 Cor. 13. Men that have been most confident in confuting other mens Errors, have oft committed greater than they have confuted. Humble Saints, finde so much darkenesse and weaknesse in them<g ref="char:EOLhyphen"/>selves,
+<pb n="17" facs="tcp:108580:10"/> that they dare not be so confident and bold in impo<g ref="char:EOLhyphen"/>sing upon others. They are proud spirits, that dare so Lord it and usurpe Dominion over the Faith of others. And it is to be observed, that such rigide severe imposers upon others, have been the men guilty of the greatest disobedience and disloyal<g ref="char:EOLhyphen"/>ty to Civill Powers. So the Jews, a severe zealous People in their Traditions, but most refractory and treacherous to Go<g ref="char:EOLhyphen"/>vernments, as to the <hi>Babylonians</hi> and <hi>Romans</hi> who conquered them. There might be added instances in Papists and Prae<g ref="char:EOLhyphen"/>lates, &amp;c.</p>
+            <p n="11">11. What blood, confusions, strises and contentions, hath compulsion brought forth? All warrs, tumults, almost every where, have arisen from this spirit of violence and compulsion. Hence the <hi>Papist</hi> persecutes the <hi>Protestant,</hi> and the <hi>Protestant</hi> the <hi>Papist.</hi> Hence the <hi>Turkes</hi> opposeth the <hi>Christian,</hi> the <hi>Chri<g ref="char:EOLhyphen"/>stian</hi> the <hi>Turke.</hi> The un-Christian <hi>Russian,</hi> forceth his captive <hi>Turke;</hi> and the barbarous <hi>Spaniard</hi> the poore <hi>Indian</hi> to their Baptisme with the sword point at their brest. What savage in<g ref="char:EOLhyphen"/>humanity doe men cloathe Christian Religion withall, and make <hi>Turkes</hi> and <hi>Indians</hi> loathe it? Hence Husbands oft un<g ref="char:EOLhyphen"/>naturally asslict Wives; Parents Children; Masters servants, for differences and dissents in Religion meerly, contrary to that 1 <hi>Cor.</hi> 7. where the Apostle commands, <hi>the beleeving Husband to love and tender the unbeleeving Wife and the beleeving Wife to obey the unbeleeving Husband. Christs</hi> Gospel is not a Gospel of compulsion, cruelty, but of peace and love; Therefore be<g ref="char:EOLhyphen"/>leeving Husbands, Parents, Masters, are no way to force any relations under them; but with all meeknesse and gentlenesse to exhort and instruct, and to doe to others, as they would have others doe to them. Where force and compulsion rules, all the reasonablenesse of mens services is lost, <hi>Rom. 12. 1. So as they offer the Sacrifice of Fooles,</hi> Prov. 5. 1.</p>
+            <p n="12">12. Whatsoever hath had but any tendency to force and per<g ref="char:EOLhyphen"/>secution, or putting any yokes upon the Saints necks in these times, though never so speciously guilded over with the name of <hi>Church, unity, uniformity, &amp;c.</hi> how wonderfully hath God appeared against it? The <hi>Covenant</hi> (a meer brat of policy, though at first framed by godly <hi>Presbyterians,</hi> and <hi>Independants</hi>)
+<pb n="18" facs="tcp:108580:11"/> the Assembly of Divines the K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rke of <hi>Sco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> in what strange wayes and methods have th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y been all crushed and blasted?</p>
+            <p n="13">13. Christ was m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k and gentle, <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> 11. 29 he professeth, <hi>he came to save <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens lives not to destr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y them; He w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld not consu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Heaven (as the Disciples would have had him) th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that effered him the greatest <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dignity.</hi> Luke 9 53. 54. 55. 56. <hi>He was zealous, and whip<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uye sand sell<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs out of the Temple the house of Prayer and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> Iohn 2 14. but Anti-Christ whips them into the Temp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orce h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinances with Fynes, &amp;c <hi>Christs</hi> Di<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ples are <hi>Shee, and Lambs.</hi> Mat. 10 16. they will not fly upon wolves. as all Hae<g ref="char:EOLhyphen"/>retiques, Blasphemers, seducers, propha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e wretches a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e but <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from them, tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n away, and withd aw from th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m. The marke of <hi>Christs Sheep</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>to suffer persecution</hi> not to pe<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cute. Its the nature of Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves to teare and rent the poor La<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of <hi>Christ,</hi> which are but very few, and inconsiderable in the world, in comparison of the multitude of hypocrices, false p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>fessors, carnall profane Christians. Alas there is little Religi<g ref="char:EOLhyphen"/>on among much profession, little gold among much oare. Con<g ref="char:EOLhyphen"/>sider but the poore, ordinary sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighty, dead, formall, lazy, fruit<g ref="char:EOLhyphen"/>lesse customary hearing and praying that reignes among pro<g ref="char:EOLhyphen"/>fessors; how few are the same in secret in their closets between God and their own soules, that they appeare to be in publique before others? how few have the reall experience of those things in their own hearts, which they Preach and hold forth to others? Many sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rituall talkers there are, few spirituall walkers. Few, few will be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound to be Saints one day <hi>Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Flocke is but a little litt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne.</p>
+            <p>The Objections that rise up against this <hi>Freedome of Religi<g ref="char:EOLhyphen"/>ous Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p,</hi> and not imposing any of Gods Ordinances by Fynes, &amp;c. may be such as these.</p>
+            <p>Object. 1. <hi>Than Blaspheme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ists, Idol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters must be a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> suff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red.</hi>
+            </p>
+            <p>
+               <hi>Sol</hi> 1. The Scribes and Pha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, high Frie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. were <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phemers. called <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </hi> many of <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the highest blas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="4 words">
+                  <desc>〈◊◊◊◊〉</desc>
+               </gap> which sha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> neve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Mat.</hi> 12. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. <gap reason="illegible" resp="#keyers" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:108580:11"/> not have them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut off by the Magistrates Sword, which he might have had done, if he pleased.</p>
+            <p>2. Its probable, Laws for blasphemy would be made use of against the most p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etious Saints, as the Scribes and Pharisees (a people of a high and strict profession) made use of their Law of the Sabbath, and of Blasphemy against Christ, <hi>Iohn</hi> 5. 18. and indeed, it was necessary such a Law should be among the Jews; how else shou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Christ have dyed for our Redemption, who suffered onely as a blasphemer, <hi>Mat. 26 65. Marke 2. 7. Iohn</hi> 19 7. &amp; 10. 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? the Jews mistaking both the Law and the Person condemned that Holy and lust One; but all such Iew<g ref="char:EOLhyphen"/>ish Paenall Laws about b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sphemy, expired with the Death of <hi>Christ.</hi> though the Iews still pressed those Laws against the Apo<g ref="char:EOLhyphen"/>stles, <hi>Acts</hi> 6. 11. 13. When the <hi>Iezebell</hi> of <hi>Rome</hi> (who pre<g ref="char:EOLhyphen"/>tends great zeale against blasphemy, but intends persecution of Saints) makes Laws for p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nishing blasphemy (which is her proper name, <hi>Rev. 13. 1.) Nab<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h</hi> shall be s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to goe to it, and his Vineyard to be forfeited, 1 <hi>Kings</hi> 21. 10. Better it is to let many tares of Error and Blasphemy to grow up and to suffer many Haeretiques and Blasphemers to live in the world, than to have the least head or eare of Truth touched or to contract the guilt of the blood of the meanest Saint, <hi>Mat.</hi> 13. 29. How much Wheate hath been plucked up in stead of Tares by the zealous blind world?</p>
+            <p>3. Blasphemy, in that grosse sence it is commonly taken in, cursing, reviling Christ. as <hi>Iulian</hi> the Apostate, the S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bes and Pharisees did is hardly to be found in a whole Country. At how small game w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Satan play, so he may have any finger in persecution?</p>
+            <p>4. If all Idolaters Blasphemers, Atheists must be cut off, the most of the wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld woul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> suffer; nay even the most of those we commonly call Christians. For all cove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous persons are as grosse Ido<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aters before God as any others. <hi>Ephes 5. 5. Col.</hi> 3. 5. Fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se wors<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ippers are Idolaters; so are the <hi>Pa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sts</hi> that wor<g ref="char:EOLhyphen"/>ship the Breaden god, Images, Saints, Angels 1 <hi>Iohn</hi> 5 21. &amp;c. Alas what are the most in Townes and Parishes b<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Blasphe<g ref="char:EOLhyphen"/>mers. Every unbeleever is a Blasphemer, 1 <hi>Iohn 5: 10. Acts</hi> 13. 45. Every oppressor, persecutor, is a Blasphemer, <hi>Iam.</hi> 2. 6. 7.
+<pb n="20" facs="tcp:108580:12"/>
+               <hi>Isay</hi> 52. 5. False worshippers are Blasphemers, <hi>Isay</hi> 65. 7. great Blasphemers, <hi>Rev.</hi> 16. 9. 11. 21. As for Atheists, they swarme up and downe in every street, poore soules, to be wept over, that are without hope, without God, without Christ, <hi>Ephe.</hi> 2. 12. Men may easily professe a forced state way of Religion (which is most of the Religion of the world every where) and yet be the most vile, desperate Blasphemers. Atheists, Idolaters, that can be, scorning and rejecting Christ, and his righteousnesse, and trampling the saving sanctifying blood under their feet. The blasphemie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Atheismes, Idolatries of the Times, should be mourned for with teares of blood. The horrid blasphemy of the <hi>Quakers</hi> (which strikes at the Fundamentalls of Religi<g ref="char:EOLhyphen"/>on, the Scripture, the Flesh of Christ, the righteousness<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Christ, the Ordinances of Christ) should be dealt with as the Iews blasphemy against Christ, refelled with the Word of Truth. Their disturbing of publique Congregations, during the time of their worship, may be punished with Fynes and Im<g ref="char:EOLhyphen"/>prisonments. Their impudent going naked, deserves publique whipping; but that beast like, unnaturall practice followes from their conceited <hi>perfection,</hi> the great Idol of that profession; if they are <hi>perfect</hi> as <hi>Adam,</hi> they may goe naked as <hi>Adam</hi> did in that state and throw away their clothes, as they doe Ordinan<g ref="char:EOLhyphen"/>ce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: Clothes were gi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en us for a covering of our nakednesse, the fruit of sinne which the dayly putting on of our Clothes mindes us of. As therefore we ought not to goe naked, so nei<g ref="char:EOLhyphen"/>ther be proud of our Apparell. The damnable Doctrines that are up in the world (and we must expect more of them, to darken and oppresse rising Truths) should be bitterly lamen<g ref="char:EOLhyphen"/>ted before the Lord in secret, and witnessed against by the word of Righteousnesse, by the light of a holy and pure conver<g ref="char:EOLhyphen"/>sation.</p>
+            <p>Object. 2. <hi>This latitude of Liberty will set up Popery and Pralacy againe in</hi> England.</p>
+            <p>
+               <hi>Sol.</hi> 1. Popery, Praelacy, are both excepted out of the pub<g ref="char:EOLhyphen"/>lique Toleration, and just cause there is for it, they have both been found by the experience of many Generations to be the old persecutors of mens Consciences, (and therefore deserve no toleration) guilty of abundance of pretious blood in <hi>England,
+<pb n="21" facs="tcp:108580:12"/> France, Spaine, &amp;c.</hi> whatsoever Government is guilty of Saints blood, shall down at one time or other, <hi>Rev.</hi> 13. 10.</p>
+            <p>2. Nothing is more opposite to Popery and Praelacy than tol<g ref="char:EOLhyphen"/>leration. Anti-Christs throne stands upon two maine Pillars, or supporters, (as the house of the Philistines did, <hi>Iudges</hi> 16. 26) <hi>vid.</hi> Ecclesiasticall Revennues, and compulsion of the Magi<g ref="char:EOLhyphen"/>strates sword, both these shall be pulled down by the sword of the Souldier, (as we have seen in a great measure accomplished by the <hi>Scottish</hi> and <hi>English</hi> Armies) though it must not have any the least hand in rearing up of any part of the spirituall building of Christs house, the Church. Take away Anti-Christs Ecclesiasticall Revennues, what would become of his beastly rabble of holy Orders, lodged in M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>asteries, Colledges, Abbies, Nunneries, Frierles, those filthy Denns of uncleane spirits. Take away his compulsion by the civill sword, than he feares the Anabaptist will rise up and consound all the excel<g ref="char:EOLhyphen"/>lent politiq<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der of his Church; profane his holinesse (that wicked blasphamous one, who hath corrupted all the Ordinan<g ref="char:EOLhyphen"/>ces of God Sabbath, Baptisme Prayer &amp;c.) and Preach down his Triple Crowne. Hence he is so carefull to keep up his bloody Inquisition-honse in all his Dominions, (the main sup<g ref="char:EOLhyphen"/>porter of his bloody Religion) which shall be likewise destroy<g ref="char:EOLhyphen"/>ed by the souldiers sword. Oh how hatefull to <hi>Rome</hi> is the very name of Toleration; the Pope will tollerate any wicked<g ref="char:EOLhyphen"/>nesse (the filthyest stewes, who bring him in great gain) rather than Haeresie, Schisme, &amp;c. Its truely said of <hi>Rome, Omnia quum liceant, non licet esse pium.</hi> Iust it is, he that will not tollerate, should not be tollerated in any Free-state. Those Emissaries of <hi>Rome.</hi> Priests and Jesuites are many of them trained up in blood, instructed in Inquisition-Houses how to poyson pistoll stab Princes blow up Parliaments, <hi>England, France, Ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and, &amp;c.</hi> hath had experience of their bloody craft. Those are the professed Enemies of Protestants, of civill Liber<g ref="char:EOLhyphen"/>ties in all Countries, of free Governments: Their Tenets are, <hi>No Faith to be kept with Haretiques. no Haeretique ought to bear rule, that the</hi> Pope <hi>may dispose of Crownes, that Princes are the</hi> Popes <hi>Vassals, and owe him subjection; and some of them h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath caused hold his stirrope, some of them be whipt, &amp;c.</hi> Are such fit
+<pb n="22" facs="tcp:108580:13"/> to be entertained in <hi>England</hi> (I speake not of the silly, harme<g ref="char:EOLhyphen"/>lesse, devout Papist, that minds onely his Beades) such I say as are gai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty of the blood of the poore Protes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ants beyond the Seas and come over to propagate their Religion by murthers and massacres; witnesse the bloody raigne of Queen <hi>Mary;</hi> the horrible Gunpowder Treason, the late barbarous massacre in <hi>Ireland,</hi> all promoted carried on, assisted, by the Councills and Prayers of Priests and Jesuits.</p>
+            <p>Obj. 3. <hi>This liberty will ecl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pse the power of the Christian Magistrate, and make it uselesse.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> 1. It will rather restore it to his primitive lustre. What have Magistrates been these many hundred years, but the Popes, and his Clergies Bayliffs and Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chers, to take up his Rents, and murther the Saints. Ever since <hi>Constant<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes</hi> time almost, the Mitre hath commanded the Scepter, and filled the world with blood The glory of Magistrates, is to be the shields of the Earth, (of the poore, low, common sort of peo<g ref="char:EOLhyphen"/>ple) protecting all indifferently, that live peaceably under, and obediently to them.</p>
+            <p>2. Let Magistrates mind their proper worke. <hi>pun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shing evill do<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> Rom. 13. 3. <hi>matters of wrong and wicked lewdnesse, Acts</hi> 18. 14. (not differences and dissents in Religious pra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ises) <hi>such as be disobedient to Parents, lying, false witnesse bear<g ref="char:EOLhyphen"/>ing, drunkennesse, adultery, murthe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> oppression of all sorts, &amp;c. pleading the cause of the Widow, the f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sse and poore, against the mighty ones,</hi> Job 29. 12. to 18. <hi>previding as Fathers of the Common-wealth for the blinde maynted, and aged; correcting the Vagabonds, foreing the Idle to Worke; suppressing Alehouses,</hi> (the Mothes of mens Estates, nurseries of Idlenesse, and all wickednesse) <hi>which so swarme in all Townes: punishing Fore<g ref="char:EOLhyphen"/>stallers, regretters, engrossers, these Canker-Wormes of the Com<g ref="char:EOLhyphen"/>mon-wealth &amp;c.</hi> and they will find work enough to doe. These are the great things of Magistracy, though not so minded oft, as they ought to be by men the most busie and zealous enfor<g ref="char:EOLhyphen"/>cers of Religious observances upon the world These are the things that would secure and honour their Authority. As for matters of worship, False or True, they have no more to doe with them, than <hi>Ʋzzah</hi> to stay the Arke, 2 <hi>Sam.</hi> 6. for which
+<pb n="23" facs="tcp:108580:13"/> he smarted. Neither is it any denying of Magistracy (as hath been suggested) to deny Magistrates any power to command in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs meer'y Religious. Mag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stracy is the Ordinance of God, and we are b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und to honour all Magistrates (according to Gods command, <hi>Honour thy Father and thy Mother, &amp;c.</hi>) let their Persons be what they will, be their Religion what it will. As for the distinction of Christian Magistrate, it is unscripturall. One Magistrate (as a Magistrate considered) is as much Chri<g ref="char:EOLhyphen"/>stian as another. So was Queen <hi>Mary</hi> as much as Queen <hi>Eli<g ref="char:EOLhyphen"/>z<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th &amp;c.</hi> the power of all Magistrates is the same; If one <hi>Magistrate</hi> may force his way of Religion, than every <hi>Magi<g ref="char:EOLhyphen"/>strate,</hi> as a <hi>Magistrate,</hi> may doe it; then a <hi>Turkish Magistrate</hi> may force as well as a <hi>Popish.</hi> and a <hi>Popish</hi> as an <hi>Epis opall,</hi> and an <hi>Episco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all</hi> as well as a <hi>Presbyteria<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and a <hi>Presbyterian Ma<g ref="char:EOLhyphen"/>gistrate,</hi> as well as an <hi>Independent;</hi> for <hi>Magistrates</hi> are all alike <hi>Ordinanes of God,</hi> Rom. 13. 1. Jer. 27. 5. 6 7 8 to be obeyed, honoured by all persons, of all degrees, living under their jurisdiction; but command worship they ought not, what<g ref="char:EOLhyphen"/>soever worship is performed (as to be feared most is) with re<g ref="char:EOLhyphen"/>spect to the <hi>Magistrates</hi> command is carnall and hypocriticall. F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, sincerity eyes alwayes the Authority of the Lord Jesus enjoyning and true worship is onely grounded upon the com<g ref="char:EOLhyphen"/>mand of God.</p>
+            <p>Ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 4. <hi>'Did not the Kings of Israel and Iudaeh exerciso power over the Priests and Levits, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in other Religion appoint<g ref="char:EOLhyphen"/>ments and punish blasphemers, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> Hence arose the grosse opinion of <hi>Erastus,</hi> who would bring the Jewish Politie into the Christian Church, and make the chiefe <hi>Magistrate</hi> (as being the <hi>Custos utrius{que} Tabulae</hi>) to be the chiefe Officer of the Church, and so to have the prime Governing Power both in the State and Church, which is to set up another King in the Church, besides the Lord) Jesus, her onely King and Law-Giver. The Kings of <hi>Israel</hi> and <hi>Iudah</hi> (who were for the most part great Idolaters and persecuters, and led that dolatrous people with them, which we may see in <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>roboam, Solomon,</hi> and others. 2 <hi>Chron.</hi> 12. 1 &amp; 11. 14. 15. 1 Kings 12. 28 (as our Kings and Parliaments of <hi>England</hi> were wont to carry the people about to any Religion) were Kings
+<pb n="24" facs="tcp:108580:14"/> over the Church, as well as over the Common-wealth; for the Iewish <hi>Church and Common-wealth</hi> was both one, so as their K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs had power over the <hi>Church,</hi> their Priests over the <hi>Common<g ref="char:EOLhyphen"/>wealth,</hi> as we may see in <hi>Nehemiah</hi> and <hi>Ezras;</hi> and 2 <hi>Chron.</hi> 8. 9. their admission into the <hi>Church and Common wealth</hi> was at one, and the same time, <hi>vid. by naturall birth; their Excom<g ref="char:EOLhyphen"/>munication out of the Church, was their cuttiag off all from the Common-wealth by Death;</hi> but that Polity expired at the Death of <hi>Christ,</hi> and was totally dissolved by <hi>Titus</hi> and <hi>Vespaesian,</hi> when Ierusalem and the Temple was destroyed. We have no such <hi>Church-Common-wealth</hi> (our admission into Gospel-Churches, being by personall profession of repentance towards God, and of Faith towards our Lord Iesus Christ, our Excommunication be<g ref="char:EOLhyphen"/>ing a dreadfull cutting off from the communication of the <hi>Church,</hi> not from our Interests in the <hi>common-wealth,</hi> unlesse the party Excommunicate, be also guilty of some capitall offence against the common-wealth, as Felony, Treason, Rebellion, &amp;c.) and therefore we have no such Kingly and Magistraticall power; for all Goverments now are worldly powers, and without the Church, and have nothing to doe with the least pin of the san<g ref="char:EOLhyphen"/>ctuary, the least of Ordinance of Christ, to impose it by Fynes, Imprisonments; &amp;c. the power of Magistrates doth not re<g ref="char:EOLhyphen"/>spect the Church (called the Kingdome of Heaven, <hi>Mat.</hi> 25. 1. &amp;c.) but onely the world, and are ordained for the Order and Government of the world, by whom those powers are elected, and to whom they are responcible. Neither hath the Church any thing to doe with any the least transactions of the Com<g ref="char:EOLhyphen"/>mon-wealth; no worke is to be done in her, but what is spi<g ref="char:EOLhyphen"/>rituall; what concernes the worship of God the mutuall con<g ref="char:EOLhyphen"/>solation and edification of each other; Therefore the Church is called, <hi>The house of Prayer, (id est,</hi> of all worship, she is the great Ordinance of worship) not a house of policy, and model<g ref="char:EOLhyphen"/>ling State-Governments. Were the rules of Christian subje<g ref="char:EOLhyphen"/>ction, and protection observed; what an universall Peace would dwell on the Face of the Earth? How would the moun<g ref="char:EOLhyphen"/>tains bring forth Peace, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the little hills Righteousnesse?</p>
+            <p>Obj. 5. <hi>It is not Prophesied, Kings shall be thy Nursing Fa<g ref="char:EOLhyphen"/>thers,</hi> Isay 49. &amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb n="25" facs="tcp:108580:14"/>
+            <p>
+               <hi>Sol.</hi> 1. By <hi>Nurcing Fuhers,</hi> the old Clergy understood such Magistraces as did humor and serve their carnall Interests, though never so great oppressors a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d persecuters otherwise; and so the Church of <hi>Ro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</hi> (the Strumpet) may boast that she hath had that Prophesie fulfi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led in her, for all Kings have done her homage, and served her and drunk of the oup of her For<g ref="char:EOLhyphen"/>nications; and she hath writ. <hi>Defender of the Faith</hi> upon the Swords of Princes that have been most imbrued in the blood of Saints. 2. This Prophesie respects the time of the Jews con<g ref="char:EOLhyphen"/>version, and the Kingdome of Christ; then Kings shall bring their honour and glory to the new Jerusalem, <hi>Isay</hi> 60. 16. whose Citizen, shall be all Kings and Priests, <hi>Rev.</hi> 21. 24. &amp; 5. 10. As for Kings of this constitution. they have all of them had their Robes dipt in the blood of Saints, more or lesse. 3. They may in some sence be called <hi>Nursing Fathers,</hi> when they Proclaime Liberty (as <hi>Cyrus</hi> did) to build the house of God, which must be all built of free stone, of pure materials, of saphires and carbuncles and that at Christs o <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne proper costs and charges (the gifts and g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aces of his own spirit) with<g ref="char:EOLhyphen"/>out having the least stone of the power, policy interest of the world layd at the bottome 4. From the supereminent Epi<g ref="char:EOLhyphen"/>thires, the high and glorious titles given to the Church by Ie<g ref="char:EOLhyphen"/>sus Christ, it may be concluded, that she is ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to nurse and protect the powers of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he world, then they her. She is called <hi>The city of the Lord the mountain of the Lord</hi> Psal. 46. 4. <hi>Chist body, his Spouse.</hi> Ephes. 1. 23. &amp; 5. 32. <hi>the pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar of truth,</hi> 1 Tim 3. 15. <hi>the Kingdome of Heaven.</hi> Mat. 25 1 &amp;c. All in he is holy spirituall, and heavenly; her members, her officers, her ordinances. Christ dwells in her, walkes in the middest of her. What use can th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e be for the carnall Laws world<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y pow<g ref="char:EOLhyphen"/>ers of Princes, in the Church, in things appertaining to her glory and order. As well may Princes presume to prescribe Laws to the windes. and giue rules to the starrs, as to the church, a heavenly and spirituall body, in which no Scepter is fit to rule or order any thing but the Scepter of Christ, her a one King, Protector and Law-Giver. For the Church to make fawning addresses to the powers of the world, is not becomming her state, its an undervaluing of her noble and divine extracti<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.
+<pb n="26" facs="tcp:108580:15"/> Let poore weake erior cry out to the Powers of the world to help her (as the Scribes and Pharisees did to <hi>Pontius Pilate</hi> against <hi>Christ</hi>) the Church is kept in the arme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Christ.</hi> She holds all her spirituall power and greatnesse, Majesty and state, upon none, but <hi>Christ,</hi> her head and husband. She is no Or<g ref="char:EOLhyphen"/>phane, entrusted to the powers of the world to be her Guardi<g ref="char:EOLhyphen"/>ans, but the great Queene of Heaven and Earth, who hath Re<g ref="char:EOLhyphen"/>giments of blessed Angels for her dayly attendance; the pro<g ref="char:EOLhyphen"/>tection of her, is one of the gloriousest Iewels in <hi>Christs</hi> Crowne; a Flower of Prerogative Royall that he will not part withall to any of the Princes of the Earth. <hi>Christs</hi> breasts alone are sufficient to nourish and sustaine her, she can be car<g ref="char:EOLhyphen"/>ried in no other armes. Churches ming<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Interests with the world, would make them carnall and worldly and to alter with states and governments, on which they have dep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndance. That Church that calls for the sword of the civill Magistrate to de<g ref="char:EOLhyphen"/>cide her controversies (which must onely be decided by the sword of the spirit, the word of God) doth so farre partake of a marke of the Ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lot. Religion and worship are not to be held out on the swords point of Princes; Christ hath no way commissionated them as to those thing, but hath intrusted all his Ordinances wholly into the hands of the Churches. By in<g ref="char:EOLhyphen"/>troducing a civill power into the Churches Anti-christ with his two swords came up; for after he had a while fixed Ecclesi<g ref="char:EOLhyphen"/>asticall power to the Emperors sword he came at length to chal<g ref="char:EOLhyphen"/>lenge the civill sword as due to his chayre and wrested it out of the hands of the Emperor, having acted first the part of the Fox, then of the Lyon.</p>
+            <p>All that the Churches can expect of worldly powers, is <hi>Free<g ref="char:EOLhyphen"/>dome of Worship,</hi> that so saints may live a peaceable and quiet life under them in all godlinesse and honesty. What a singu<g ref="char:EOLhyphen"/>lar mercy and priviledge would we have accounted it in the Praelates time, to have had but one place in a City free for the pure worship of God? This made the free Ayre of <hi>Holland</hi> (where all Religions are permitted, and which was once the harbour and shelter of the <hi>English persecuted Saints and Churches,</hi> where they had many blessed sweet dayes, &amp;c. for which, that Land may receive a blessing, though God hath gi<g ref="char:EOLhyphen"/>ven
+<pb n="27" facs="tcp:108580:15"/> a cheeke to their pride) sweeter then that of <hi>England,</hi> where such a strict and catholike uniformity was set up.</p>
+            <p>And we see it oft fall out in Governments, that Majestrates pretending to be <hi>Nursing Fathers,</hi> and engaging their civill power in Religious concernments as their affections leades them, breed divisions and distractions in Government, whilest one magistrate will have his way advanced, and another that succeeds, his way; hence saction, distasts, animosities, sedi<g ref="char:EOLhyphen"/>tions ariseth secretly. Christs Gospel is not a Gospel of tumult and strife; but of peace, love, concord, and obedience.</p>
+            <p>Obj. 6. <hi>But shall wicked pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fane men be suffered to abuse and trample under foot Gods holy Ordinances?</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> 1. To disturbe any in the time of their worship, as the <hi>Quakers</hi> now doe, is justly punishable; never any of the Apostles did practize it in the Jewish Synagogues, or Hea<g ref="char:EOLhyphen"/>then Temples. 2. They that cast holy things before swine, and impose the practize of holy Ordinances upon carnall hearts, (that can doe nothing else but tread upon them) they abuse and profane holy things. <hi>Sancta sanctis,</hi> holy things are onely for holy hearts. 3. The Church, as having the power of <hi>Christ</hi> delegated to her, is able, without the magistrates sword, to maintaine the splendor and glory of all ordinances. Men may pretend <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aire, as <hi>Ʋzzah</hi> might, for staying the Arke, least it should d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op into the myre, and the enemies blaspheme; but what command had he to put forth his hand to beare up the Ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e? The Arke and Ordinances of God, need not carnall helps to support them from falling; to thinke so, is to disho<g ref="char:EOLhyphen"/>nour them and the power of God. What men doe without a command, shall one day have a checke, with a <hi>Quis requisivit haee?</hi>
+            </p>
+            <p>Some may perhaps <hi>Quaere; Whether were not the Warres of</hi> England <hi>for Religion, and to place godly men in power and au<g ref="char:EOLhyphen"/>thority, such as might propagate the Gospel, and suppresse Hae<g ref="char:EOLhyphen"/>resies?</hi>
+            </p>
+            <p>To the first its answered. The warrs in <hi>England</hi> were not to set up any forme of Religion to cause all others to bow un<g ref="char:EOLhyphen"/>to; but rather to suppresse persecution for formes, whereby we wete deprived of our civill liberties, and could not be permit<g ref="char:EOLhyphen"/>ted
+<pb n="28" facs="tcp:108580:16"/> peaceably to live, unlesse we did submit to the state-forme, contrary to our consciences.</p>
+            <p>2. No warr undertaken for Religion is lawfull. Christians as Christians must onely suffer for Religion; as men they may engage in a Nationall quarrell against a common enemy, For<g ref="char:EOLhyphen"/>raigne or Domesticke, (that endeavour to destroy Nationall Laws or Liberties) so they have the nationall, supreame legisla<g ref="char:EOLhyphen"/>tive power to warrant their taking up of Arms, as we in <hi>England</hi> had, and without which, our flying to A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes had bin Rebellion.</p>
+            <p>3. Its true, the fire of warr in <hi>E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> was first kindled (as ever almost hath been wont) by the Nationall Episcopacy, or Clergy (whose proper genious where ever i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is set up in any power, is to over master, and rule, or ruine all) imposing the Common-Prayer-Booke and its superstitions upon the <hi>Scottish Nation;</hi> who upon their just refusall of it, are declared Ene<g ref="char:EOLhyphen"/>mies to the King Rebells, prosecuted with armes, and thereby are compelled to take up defensive armes, and at length, for the safety of their Nation (the ground of their warr) to march into <hi>England;</hi> whereupon a Parliament is called and by it the <hi>Scots</hi> (though in a posture of warre) lovingly owned as <hi>our deare Brethren.</hi> That people being afterwards invited to come and help us, as Conquerors, they first lay illegall Taxes upon all the Northerne Counties, and then challenge an In<g ref="char:EOLhyphen"/>terest in the Government of <hi>England;</hi> yet are sent home in peace. After all forgetting the <hi>English</hi> kindnesses, and their owne profession of it (after our routing of the <hi>Hamilton</hi> Ar<g ref="char:EOLhyphen"/>my in <hi>England,</hi> and our pursuing them into <hi>Scotland</hi>) their Nationall Clergy sound the Trumpet of warre, (our Enemy being Proclaimed King there) upon pretence o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Covenant,</hi> (as the Bishops did against them upon pretence of the Com<g ref="char:EOLhyphen"/>mon-Prayer-Booke) declare against our Parliament as savou<g ref="char:EOLhyphen"/>rers of Sectaries and Haeretiques so as their Army once under our pay) is headed with our declared Enemy. Whereupon our Army was necessitated (by the Law and reason of warr) to march into <hi>Scotland</hi> (Prayers appeal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s being put up to Heaven on both sides) which was subdued and brought under by the armes of those whose consciences they though to have brought under their <hi>Covenant, and Kirke Canons.</hi> And thus did both the
+<pb n="29" facs="tcp:108580:16"/> Nationall persecuting Clergies draw upon themselves the warr to their own destruction and ruine.</p>
+            <p>4. But there were other accompts, upon which principally the Parliament took up armes; as 1. The Parliament must bring (according to their trust) all Incendiaries and Traytors to Justice, such as <hi>Strafford, Land,</hi> (whose ambition was to make the best <hi>lacke Gentleman</hi> in <hi>England</hi> to vaile to a Canonicall blacke coate) who both suffered, not for any matrer of Religi<g ref="char:EOLhyphen"/>on, but Treason, conspiracy against Laws and Liberties &amp;c. The King on the other hand, by his Prerogative contrary to his Legall Intrustment from the people) will needs protect them. 2. Liberty, property, (the two maine pillars of a <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wealth) were strangely shaken, highly invaded upon by <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prerogative, all was made to be at the devotion of the King, and his will to be superiour to all law; the Court Doctrine of those times. 3. The King onely, and by himselfe, without the Parliament, challengeth the power of the Militia (and conse<g ref="char:EOLhyphen"/>quently of our Laws, Lives, and Estates) the Parliament on the other hand, deny it to belong solely and absolutely to him, espe<g ref="char:EOLhyphen"/>cially now being seduced by wicked and malignant Councill; for sure they were, it would have been wholly used against them, and all the good people of <hi>England,</hi> so desperate was the Kingly antipathy to the puritan fect (though most peace<g ref="char:EOLhyphen"/>able and loyall subjects) that he would never have endured any of them, Presbyterian, Independent, or Anabaptist, that they would all one as well as other, have found in time, the politique taking the <hi>Covenant</hi> (so much pressed on him) would never have altered his principles of persecution. <hi>Regnandi sausâ dissimulare fas est.</hi> 4. There had broke out the year before, upon the 23. of <hi>October</hi> 1641. (not without his privity and consent, as was strongly presumed, he being than in <hi>Scotland</hi> to settle all in peace) the rebellion of the <hi>Irish</hi> Papists, who acted that horrid, harbarous, and unparalled Massacre of the poore Protestants, (which blood, how hath God since revenged upon the Author and Abettors of that designe, giving them a full cup of wrath to drinke?) against which, yet he see<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingly declared with greatest destestation, and offered to goe in Person to chastize them, that he might bring them ever to chastize the Parlia<g ref="char:EOLhyphen"/>ment.
+<pb n="30" facs="tcp:108580:17"/> 5. He had wholly deserted the Parliament, the great Councill, and supreame power of the Nation, and raysed many armed me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, under pretence of a guard; yet the Parliament continued petitioning, till he set up his Standa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d against them, then was it time to call to armes (which on the Parliaments side were onely defensive against the King, their first and last Enemy in the Field) and after many, the most solemne appeals that ever were made to Heaven on both sides, they came to the Field, and the Lord of H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asts by the sword determined and decided all those great controvers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es between the King and the Parliament (the peoples highest legislative power) and still by most signall victories owned the Parliaments cause, especially since that worthy and memorable Ordinance, 4 <hi>March, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le Sabbati,</hi> 1647. declaring liberty of worship to all the dissen<g ref="char:EOLhyphen"/>ting Brethren, not one Battle of so many hundred hath been lost by their Armies (miraculously, in a manner, owned of God) as if Gods great designe were out of the ashes of Kingly and Episcopall Tyranny, to bring forth <hi>Freedome of Worship,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough through a Sea of Blood. Thus God made the Earth (<hi>id est,</hi> Earthly powers, martiall and civill) to help the woman, <hi>id est,</hi> the Saints and Churches ready to be devoured by a flood of persecution.</p>
+            <p>By the way, it may be confidered, whether that blasphemous title (Desender of the Faith, and in all causes and over all persons, as well Ecclesiasticall (for the King made Arch-Bishops, Bishops, and they the inferiour Clergy) as civill, within these his Ma<g ref="char:EOLhyphen"/>jesties Dominions, Supreame Head and Governour) used com<g ref="char:EOLhyphen"/>monly by the Praelaticall sort in their publique Prayers, and either by Custome or Law, given to the Kings of <hi>England</hi> (a title not fit for any Crowne, but <hi>Christs,</hi> the supreame head of the <hi>Church</hi>) did not help to fill the Viall of that wrath, which hath been powred out upon that Family, with which who ever hath joyned, hath been destroyed.</p>
+            <p>Probable it is, Kingly and Episcopall Government might have stood to this day, had they not persecuted, oppressed, which caused the teares and prayers of Saints for many yeares toge<g ref="char:EOLhyphen"/>ther, to be poured out to Heaven; and Saints prayers must be answered at one time or other, and that to the cost of all per<g ref="char:EOLhyphen"/>secuting
+<pb n="31" facs="tcp:108580:17"/> worldly powers, who yet will not be watned by all the judgements of God visible in the world. Would <hi>Pharaoh</hi> but have let the people of Israel goe three dayes into the wil<g ref="char:EOLhyphen"/>dernesse, and worship, <hi>Exod.</hi> 3. 18. (a very reasonable request, for they are but reasonable things the Saints desire of the pow<g ref="char:EOLhyphen"/>ers of the world) its likely he might have saved himselfe and Egypt from those plagues. All the great Monarchies in the world have broke upon this rocke of persecution. The three first Monarchies, that persecuted the Nationall Church of the Jews (the onely Church that then God had in the world) were broken one of another. The Nationall Church and Priest<g ref="char:EOLhyphen"/>hood of the Jews, which persecuted <hi>Christ,</hi> and the Apostles, were broke to pieces by <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> and <hi>V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atian.</hi> Never did perse<g ref="char:EOLhyphen"/>cution goe without a brand of Gods displeasure; what ever power strikes at any Ordinance of God, sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll wither like <hi>Jer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms</hi> arme, that w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s stretched out against the Prophet, 1 <hi>Kings</hi> 13. 4. The <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rian</hi> and other persecutions that arose amongst the Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ians, were at length about the yeare of our Lord 600. severely punished by the rising of <hi>Mahomet,</hi> the seurge of Christians, in those Ea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erne Churches. The fourth and last Monarchy, described <hi>Dan</hi> 2. 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 42 43. (which hath and shall most of all persecute the Saints) shall be broken to pieces by civill and intestine warrs, God dashing one Nation, and one piece of a Nation against another.</p>
+            <p>To the second part of the <hi>Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere. Wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther godly men, such as will propagate the Gospel, and suppresse Haeresies, ought not onely to governe?</hi>
+            </p>
+            <p>Its answered. Government is a civill and carnall thing, and may be exercised by carnall persons, guifted for it. The end of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivill Government is onely to co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sult the publique good, peace, order, and protection of those over whom they rule To propagate the Gospel had all the sword, civill or martiall is a car<g ref="char:EOLhyphen"/>nall way. When the Gospel had all the swords of E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pero<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and souldiers, and magistrates against it, yet i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and prevailed; and i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath as much power now, as ever Powers should and ought to give liberty to the Preaching the Gosp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, freedome of worship. But if not, bonds, chai<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prison<g ref="char:EOLhyphen"/>ments, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>onings, whippings, pillories, burnings, will p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove
+<pb n="32" facs="tcp:108580:18"/> most effectuall wayes of propagating the Gospel. The Gosple is a spirituall thing (no carnall designe, as trade and traffique is, which Governments advance) it cannot be propagated by a carnall power. To set any by commission from the state, to pro<g ref="char:EOLhyphen"/>paga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Gosple, is a way the Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pel knows not, a State-Engine onely for its proper onely to the Church (which is im<g ref="char:EOLhyphen"/>powred by <hi>Christ</hi> for that end) to send forth Embassadors for <hi>Christ, Acts</hi> 13. 3. who ought to be commissionated by the Prayers and Imposition of Hands of the Church, of which they are members. As the sending power is, such is the Mini<g ref="char:EOLhyphen"/>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry; though it is not denyed, but even a carnall Ministery, such as is in the <hi>Romish Church,</hi> such as was under the <hi>Praelates,</hi> may convert soules. As for Haeresies, they were discovered, blassed by the sword of the spirit (the word of God) in the Apostles dayes, without the carnall sword. Never did the swords of magistrates or souldiers, suppresse mens Haeresies; they might kill their bodies, things that lye in the judgement and understanding, are out of their reach; its the worke of the Gospel to enlighten the understanding, bow the will, bring in<g ref="char:EOLhyphen"/>to subjection every imagination that exal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s it sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p>Here it may first be alleaged, Its the practice in <hi>New-Eng<g ref="char:EOLhyphen"/>land,</hi> to chuse Church members onely for mag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and Church members onely to chuse, as being one<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r be it from me to open my mouth to speake the least evil of the pretious <hi>Churches of Christ</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xile. Oh that the beauty of the Lord <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> and order) may rest upon them <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> On that pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de policy, ridgidnesle, carnall <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>plyances, <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> may never eclipse their glory but that it may shine ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to all the world. But for their mixt civill Ecclesiasticall kind of Government, time will discover. I blesse God, I breathe in the free Ayre, and sive un<g ref="char:EOLhyphen"/>der the Laws and Government of <hi>Old England.</hi> That civill Government that will suffer no way o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worship but onely what it favours (whether the Presbyterian, Independent, or Anabaptists way) is so farr a horne of the beast requiring uni<g ref="char:EOLhyphen"/>formity, the mother of persecution. They that would set up a Jewish polity in Common wealths now, would set up a po<g ref="char:EOLhyphen"/>lity, that would persecute, as that Jewish did, even the Pro<g ref="char:EOLhyphen"/>phets, Christ, the Apostles themselves.</p>
+            <pb n="33" facs="tcp:108580:18"/>
+            <p>2. Its alledged, <hi>The New Modell requires such to be in su<g ref="char:EOLhyphen"/>preame power as feare God, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Reason requireth, that those that have constantly ad<g ref="char:EOLhyphen"/>haered to the Parliament and Army, in their greatest hazards and straites, be entrusied; for as they will be freest from impo<g ref="char:EOLhyphen"/>sing and persecution, so most reall and cordiall to the Peace and Interest of the Common-wealth. To put power into the hands of men that have been openly in the Field aga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nst the Parlia<g ref="char:EOLhyphen"/>ment, and that God hath so eminently appeared against, or that have stood base Newters in the day of Tryall, were no way consistent with publique safety; nay, would certainely expose us all to ruine: and so their councills should destroy us, whose swords could not.</p>
+            <p>Its a blessed thing to see men in authority that are wise; and just and fearing God. But unbeleevers may be Rulers of the world The Scripture is cleare in it, and its alwayes safer to judge of things by Scriptures, than by providen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, Scripture is a standing r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le for the saints in all ages, till the end of this wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld; Providences may, and will alter; but Scripture (Gods revealed mind will never alter, and it sufficiently warrants both Governments in the hands of wicked men and the saints subjection to them The Kings of <hi>Israel</hi> were usurpers, yet did the Prophets (and that apostate state had eminent ones, <hi>Eliah, Elisha Hosea &amp;c</hi>) never speake against the Government (as being in their hands or ex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ite the people to returne to the house of <hi>David</hi>) onely against their Id<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>latry. The great con<g ref="char:EOLhyphen"/>test between the Prophet <hi>Jeremy,</hi> and the false Prophets, was about <hi>Nebuchadnezzars</hi> right to rule over the people of God, he being an Heath<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Monarch, whose right (from the will and appointment of God. the originall of all powers) <hi>Jeremy</hi> ju<g ref="char:EOLhyphen"/>stifies <hi>chap.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. 28. and in many places of that Prophesie. Christ acknowledged <hi>Casars</hi> Government (a Heathen) and payd him tribute. Christ would come the first time under the fourth Monarchy (the cruellest of all the re<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> under which he suffered, and by h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s practice he teaches the saints subjection un<g ref="char:EOLhyphen"/>to worldly powers (which should all be tyrannica<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l or opres<g ref="char:EOLhyphen"/>sing o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e way or other) untill his second comming to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which should destroy the same fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rth Monarchy, <hi>Dan.</hi> 2 44. &amp; 7 9. In
+<pb n="34" facs="tcp:108580:19"/> the Apostles time, the powers were unbeleevers; and the same rule they walked by, bindes us. As they obeyed unbeleeving powers, so should we: as they did not stir up people any ways against powers, so neither ought we. Never will those men be subject and quiet under Governments, that would have them all to be of their Religion, and maintain their lenets with their swords. Than is the tryall of our Christian subjection, when Magist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates persecute us, crosse our worldly Interests; and ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we can own them honour them as Ordinances of God, though they be also the Ordinances of men 1 <hi>Pet.</hi> 2. 13 chosen, ap<g ref="char:EOLhyphen"/>pointed, conslituted by men; and if they prove tyrannye all any way, the Common-wealth (whose servants they are and to whom onely they are accomptable) hath onely power to question them; but the Church hath none, all powers, Parlia<g ref="char:EOLhyphen"/>mentary and Military being without the Church.</p>
+            <p>Its a glorious thing, I say, to see godly men sitting in places of Indicature. And providence seems to promise faire this way; yet let us cast an eye upon some cauticuary considera<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="1">1. Men may have excellent parts and endowments for Go<g ref="char:EOLhyphen"/>vernment (as wisedome, fortitude, temperance justice; and how may some Heathen Magistrates shame those we call Chri<g ref="char:EOLhyphen"/>stian, for clemency, common protection? &amp;c. and rule very wisely and justly and yet before from <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Christ saith, <hi>Luke 16. 3. The children of the world are wiser in their gene<g ref="char:EOLhyphen"/>ration than the children of light.</hi> The children of the world and of light are opposed. As they have for the most part, a greater share in the good things of this life then the children of light, so they have more wisedome and policy (necessary qualifications to all Government) than the children of light. Riches and wisedome sit for government which the children of this world have a just right unto, unlesle by acts of Rebel<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on and hostility against the Common wealth, they forteit that right.</p>
+            <p n="2">2. The scene of affaires of this world is apt to alter. After the best Governments have come the werst <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. In <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> after <hi>Ioseph.</hi> Israel; bendage. After <hi>Ieshuahs</hi> death, a wicked Generation 2 rose, <hi>Judges</hi> 16 to 11. After <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Soionon, Re<g ref="char:EOLhyphen"/>boboam;</hi> after <hi>Hczekiah, M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nasses;</hi> after <hi>Iesiah, Iehorick m.</hi>
+               <pb n="35" facs="tcp:108580:19"/> After <hi>Constantines</hi> reigne, what prids and division in the Church, till the <hi>Turkes</hi> came, and over-runne all those Eastern Countries, where the Gospel first slourished? After King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the sixth followed bloody Queen <hi>Mary.</hi>
+            </p>
+            <p n="3">3. Godly men (or so seeming) have oft layd the soundati<g ref="char:EOLhyphen"/>ons of the greatest miseries and mischeifes to the Church. The first Bishops of <hi>Rome</hi> are reported to be godly men. <hi>Constantine</hi> a godly Emperor. The Composers of the Booke of Common-Prayer, and the covenant (both at first received with great joy) were Marryrs, and godly men; yet what mischiefe lay hid un<g ref="char:EOLhyphen"/>der them both, which they could not see into; the one firing <hi>England;</hi> the other <hi>Scotland.</hi> If after all, godly men will make use of their civill power to order Religion and Worship, let them take heed, they leave not behinde them a sparke of fire of persecution that will one day kindle and consume the cou<g ref="char:EOLhyphen"/>trivers.</p>
+            <p n="4">4. The Jews had a command from God to appoint godly magistrates <hi>Exod.</hi> 18. 21. yet were their magistrates the most hideous-oppressors, as we sinde God complaining of them in all the Prephets. They had the best Laws, yet were the worst, and most persecuting people.</p>
+            <p n="5">5. Let us not thinks Churches cannot subsist, without the favour and interests of magistrates. Carnall Church frames cannot stand without the carnall sword; but Churches built on the Rocke need no sword, but the sword of the word to cut off by Excommunication wicked persons within, and to convince and stop the mouthes of gain-sayers without.</p>
+            <p n="6">6. How many have fallen by their rising to high places in these times, lost their servent love to saints, their former sweet communion with God, their old favour of spirit they had be<g ref="char:EOLhyphen"/>fore those times? Many wrackes of eminent ones that have split upon the rocke of preserments are yet to be seen. High places, are slippery places, which men cannot walke in with<g ref="char:EOLhyphen"/>out much danger, and should with much feare. What misear<g ref="char:EOLhyphen"/>riages in those men have had high expectations of?</p>
+            <p n="7">7. How hard is it to know a godly man, and one that seares God. He may cry up Ministery maintenance, be a Church<g ref="char:EOLhyphen"/>member, and yet be a very hypocrite. Men may take up
+<pb n="36" facs="tcp:108580:20"/> formes of Religion to get into places of power; as that <hi>Car<g ref="char:EOLhyphen"/>dinall</hi> to shew his humility would ye in a Fathers net (his Fa<g ref="char:EOLhyphen"/>ther being a Fither man) till he got the Potedome which he Eshed for. There are deeps of wickednesse in the hearts of men. Its usuall for the greatest Tyrants to pretend highlyest to Religion, to the Church, &amp;c. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elu</hi> was at first a zealous Re<g ref="char:EOLhyphen"/>former and punisher of <hi>Baals</hi> Priests, but would not touch that speciall piece of State-religion <hi>Ieroboams</hi> Calves, 2 <hi>Kings</hi> 10. The <hi>Scots</hi> at first zealous pretenders to reformation; how was their selfe-Interest discovered at last? <hi>Tob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, Sanballet,</hi> pre<g ref="char:EOLhyphen"/>tend to build the Temple, <hi>Ezra 4. Herod</hi> to worship <hi>Christ, Mat.</hi> 2. but who can see what lyes at the betcome? <hi>Machi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>veils</hi> principle takes with most Courts. <hi>To seeme Religious, profitable; to be Religious hurts a Prince,</hi> it esseminates his spirit, tyes up his conscience too straite to rules &amp;c.</p>
+            <p n="8">8. Great danger, when Religion comes into the hands of States. men and Politicians that it be quire lod, and made a State businesse, a meer carnall designe. Lamentations might be writ of our times, what a world of hypocrites and fawning formalists have these times bred? much profession little <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Since Religion hath put on more pompe, how much hath she lost of the power, spirituall life, and glory, was wont to ap<g ref="char:EOLhyphen"/>peare in her? <hi>Religio peperit divitiar, &amp; filia de <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mairem</hi> The world hath done Religion more harme by her gifts devo<g ref="char:EOLhyphen"/>tions, and pensons, than by all her bloudiest persecutions, Queen <hi>Elizabeths</hi> Bishopprickes, spoyled many good Preach<g ref="char:EOLhyphen"/>ers. <hi>Constantines</hi> donations (after which, Anti-Christ advan<g ref="char:EOLhyphen"/>ced higher and higher every day) what pride, emulation cove<g ref="char:EOLhyphen"/>tousnesse, worldly mindednesse did they beget among the Bi<g ref="char:EOLhyphen"/>shops? Should the old persecuted Puritans come out of their graves among professors, they would searce know them from the world, or the world from them; such complyances are in the one such hypocrasies in the other: Professors are growne to such a height of the world, and the world of profession. The converting plainnesse, and powerfull simplicity of the Gospel is almost lost with the pompe of words, subtile notions, distin<g ref="char:EOLhyphen"/>ctions, definitions of Schoole-men and Jesuits, and no Preach<g ref="char:EOLhyphen"/>ing will goe downe with professors sqeezy stomackers in these
+<pb n="37" facs="tcp:108580:20"/> dayes, but that which must be so larded with niceties, and no<g ref="char:EOLhyphen"/>velties; whereas the Gospel is not for speculation, but for duty, obedience. He that will find Religion pure and sincere must goe among the poore despised Saints (embracing a crucisied Gos<g ref="char:EOLhyphen"/>pel) not among the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) pompous professors. I envy not the pompe of Religion, but I feare it more then persecution. Never so many hypocrites in any age; men can turne with all times, sayle with all windes, metamorphese themselves into any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orme that is most in favour and request with the state. Ne<g ref="char:EOLhyphen"/>ver was Religion more abused and made such a stalking-horse to mens particular designes, as in these late times; men have used it to trade and traffique with for places, benefices, preter<g ref="char:EOLhyphen"/>ments, &amp;c. Scarce any Professor, but he hath some worldly <hi>Da<g ref="char:EOLhyphen"/>lil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> or other, to wooe with his Religion, his parts and fine no<g ref="char:EOLhyphen"/>tions. We have got high names, and lost the things themselves. Love and charity, truth and righteousnesse, mercy and justice, where are they to be found? The Paint of Religion hath al<g ref="char:EOLhyphen"/>most worne out the parity of it. Than Religion flourishes, when her followers are not honourable but holy; not great, but gra<g ref="char:EOLhyphen"/>tious; not many, but sincere. When hypocrites are discove<g ref="char:EOLhyphen"/>red at first sight and dare not come nigh the glory and lustre of the Saints holiness<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shining out in their conversations, and in all Ordinances, <hi>Act,</hi> 5. 13. Whether Freedome or Persecu<g ref="char:EOLhyphen"/>tion be best, God onely knowes. Persecution may be safest for the Church, (she fares best when she hath least countenance of the world. whose frownes are not so dangerous as her smiles) but to grant Freedome, is alwayes safest for the powers of the world, which if they refuse, they shall break themselves but not hurt the Gospel, which will flourish prevaile, in despite of them all.</p>
+            <p>3. Its alledged (and hath been pleaded by lundry Pens) <hi>that the Witnesses are risen and the Kingdome of Christ begun, therefore godly men onely ought to rule and governe.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> The Saints shall have their day about of judging. 1 <hi>Cor.</hi> 6. 2. 3. a day is comming, that Saints onely shall rule though for the most part they be as no bodies in this world, they shall be the men of the next world, but as yet their time is not come; they are heires of the world, <hi>Rem.</hi> 8. 17. and as they suffered
+<pb n="38" facs="tcp:108580:21"/> with Christ, shall be glorified with Christ, but as yet they are at non age. Their filthy garments are yet upon them, they are <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with many weakenesses, infirmities, which makes the world mis<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n them, they are not fit for this world, nor this world for them; they can scarce touch this world, but they contract dirt and filth. Oh the terrible falls and scandalls that happen to Saints from their employments in these times, scan<g ref="char:EOLhyphen"/>dalls that may cause them goe with sorrow and shame to their g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aves. But a day will come of their manifestation, when they shall looke and act like themselves, Princes in all Lands, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 8 19. 1 Io<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n 3. 2. Psal.</hi> 45. 16. Could the world see, what g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orious persons the saints shall be, in stead of per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecuting them, it would honour and adore them. Its manifest we are not yet come to the first <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urrection, <hi>Rev. 20. to the new Heaven, and new Earth wherein dwelleth righteousnesse,</hi> 2 Pet. 3. <hi>none but righteous <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes,</hi> Rev. 22. 15. The Church is yet in the wilder<g ref="char:EOLhyphen"/>nesse, and hath a bloody <hi>Iordan</hi> to goe through, before she come t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Canaan.</hi> Well if we were neer the borders of that glory. The most that can be made of the glorious providence of our times, is that they may be as praeludes, and praeparatories to the Churches glory, and it may be to their sufferings first. I shall briefly hint at things, that would require large discourses, and leave every man to abound in his owne sense, and to thinke of those great mysteries, as God shall perswade him. All that have waded any thing farr into them, will acknowledge their dark<g ref="char:EOLhyphen"/>nesse (many particulars being not yet cleared out, though the things themselves in generali be fully owned) and be sensible of their weaknesse, and ignorance. The obscurity of those things made <hi>Erasmus</hi> and many other great Schollars, in stead of be<g ref="char:EOLhyphen"/>ing humbled, to throw away the Book of Revelations, as that they could make nothing of, and too much favouring the Chi<g ref="char:EOLhyphen"/>liasts.</p>
+            <p>That the Witnesses are not slaine, seems probable for these Reasons.</p>
+            <p>1. The Witnesses comprehend Saints of all sorts witnes<g ref="char:EOLhyphen"/>sing freedome, and purity of worship and passing under the measuring line, <hi>Rev.</hi> 11. 1. in opposition to Anti-christian forced and corrupt worship, noted by the <hi>Court without the
+<pb n="39" facs="tcp:108580:21"/> Temple,</hi> ver. 2. who shall tread downe the holy City two and forty Moneths. 2. Their slaying shall be universall, in all places and nations at once, <hi>Rev.</hi> 11. 9. 10. as their rising shall be universall in all nations, with which the seventh Angell soun<g ref="char:EOLhyphen"/>deth. <hi>The Kingdomes of this World are become the Lords, &amp;c. ver.</hi> 15. 3. Those slaine Witnesses shall raigne with Christ a thousand yeares, <hi>Rev.</hi> 20. 4 the very same bodies that were slaine for the testimony of Jesus, shall rise againe, and raigne with Christ 4. The Children of that first resurrection, shall be as the Angels of God, shall dye no more, sinn, and sorrow no more, <hi>Luke <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 36. Mat.</hi> 22. 30. but shall behold the Face of God, <hi>Mat.</hi> 18. 10. to this resurrection <hi>Paul</hi> seems to allude, <hi>Philip.</hi> 3. 11. 5. Before the slaying of the Witnesses, there must be the finishing the Testimony, which is not yet. <hi>Rev.</hi> 11. 7. There are yet some truths (as to worship especially) to be discovered, which will cost blood, as each truth of Christ (in that age wherein it hath been witnessed unto) hath done. 6. Before the slaying of the Witnesses be finished, there shall be more unity, clearenesse, universality in their witnessings then ever yet was; such a glory of holinesse, such a spirit of Prophesie universally powred out upon the Saints, <hi>Rev.</hi> 19. 10. as shall enrage the world against then. 7 Before the slaying the Witnesses, there shall be a greater Apostacy of those prae<g ref="char:EOLhyphen"/>tending to reformation, then ever was yet and professors un<g ref="char:EOLhyphen"/>der pure worship, shall multitudes of them fall off (like <hi>D<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mas</hi> and <hi>Philetus,</hi> and others. 2 <hi>Tim.</hi> 1. 15) to the world to er<g ref="char:EOLhyphen"/>ror to abominable practices; and professors under corrupt and forcing formes of worship, like the Scribes and Pharisees, shall cry out to, &amp; joyn with <hi>Pontius Pilate,</hi> and <hi>Herod</hi> (the th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n en<g ref="char:EOLhyphen"/>raged powers of the world) against the Saints. 8, The slaying of the Witnesses sha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be the last Tragedy of this world. &amp; shall be immediately before the comming and personall appearance of Christ. <hi>Mat. 24 29. 30. Rev.</hi> 1<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 7. 15 which shall be un<g ref="char:EOLhyphen"/>der the seventh Trumpet, the third and greatest woe that ever the world felt but a joyfull day to the than oppressed Saints</p>
+            <p>That we are not in the Kingdome of Christ, (with which the day of judgement, which will be a long day begins) is manifest, if we consider the state of that Kingdome, which
+<pb n="40" facs="tcp:108580:22"/> shall differ as much from all other Kingdomes and Governments that went before it, as day from night.</p>
+            <p n="1">1. The beginning of that Kingdome shall be the personall appearance of Christ, <hi>Mat. 24. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. Rev. 1. 7. 2 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im. 4. 1. 2 Thes. 2. 1. Zach</hi> 12. 10. he shall appeare (to the world with great terror, glory, majesty; but to the Saints) as the bright morning starr, <hi>Rev.</hi> 22. 16 and he himsel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e shall be the light and glory of that Kingdome, <hi>Rev. 21. 3. 23. Ioel <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 21. Ezek. 48. 35. Isay</hi> 60. 20. all the while, till the period of it, which shall end with Christs delivering up the Kingdom to God the Father, 1 <hi>Cor.</hi> 15. 24. after he hath put downe all rule, and judged all wicked Angels and men, according to the blessed Scripture, 1 <hi>Cor. 6. 2 3. Rev.</hi> 20. 11. 12.</p>
+            <p n="2">2. That Kingdome shall be made up of the Iews (all the twelue Tribes, <hi>Isay 11. 11. Ier. 3. 18. &amp; 50. 4. Ezek.</hi> 37. 19. &amp; 39. 25. who shall be converted as in one day by the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght of Christ made to them first <hi>Isay 66. 7. 8. Zach.</hi> 12. 10.) and of the Gentiles together, <hi>Isay 2. 2. Rev.</hi> 21. 24. 26. which Pro<g ref="char:EOLhyphen"/>phesies were never yet ful<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lied.</p>
+            <p n="3">3. All the Inhabitants of that Kingdom shall be a holy, try<g ref="char:EOLhyphen"/>umphant company. <hi>Rev. 21. 27. Isay</hi> 60 21. &amp; 62. 12. &amp; 45. 25. <hi>Rom.</hi> 11. 25. 26. 27. and Scripture points at <hi>Ierusalem</hi> (the place of Christs sufferings) to be the place where the glory of this Kingdom (which shall spread it selfe over the whole earth) shall begin. Many p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omises in Scripture are made to the holy Land. That old Promi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to <hi>Abraham.</hi> Gen. 17 8. (whereby that Land is entailed upon his Seed for an everlasting Possessi<g ref="char:EOLhyphen"/>on) is yet in force and not fully executed. See these, besides many more, Scriptures, <hi>Rom. 9. 26. Zech. 2. 12. Ier. 3. 17. 18. Isay 65. 18. 19. 20. Ier. 33. 7. 8. Ezek. 37. 21. 22. &amp; 39. 25 26. Ioel</hi> 3. 17.</p>
+            <p n="4">4. Glorious are the Priviledges of that Kingdom, such as no other Kingdom is capable of. Than there shall be no warr, no more use for armes, <hi>Isay</hi> 2 4. Than there shall be no more sinn, <hi>Isay 60. 21. Rev.</hi> 21. 27. No more sicknesse, no more sorrow, <hi>Isay 60. 20. Rev.</hi> 21. 4. no more oppression, or persecution, <hi>Isay</hi> 60. 17. Than there shall be no Anti-Christ, 2 <hi>Thes. 2. 8. Ioel 3. 19. Rev.</hi> 19. 19. 20. Than Satan shall be bound up,
+<pb n="41" facs="tcp:108580:22"/> confined to his prison, <hi>Rev. 20. 2. 3. Rev.</hi> 21. 27. till he make his last and boldest attempt upon the saints (in all their glory) in which, he and his adhaerents, shall be all destroy<g ref="char:EOLhyphen"/>ed, and judged, <hi>Rev.</hi> 20. 7. 8 11. Than the saints shall be of one heart, and of one lip, till than, we shall differ in many things, that those pretious graces of love and forbearance may be exercised, <hi>Ier.</hi> 32. 39. Than we shall have no more need of Or<g ref="char:EOLhyphen"/>dinances, the starrs shall set after the Sunn gets up, <hi>Isay 60. 19. 20. Ezek.</hi> 48. ult. <hi>Rev.</hi> 21. 22. 23. Than shall the Saints be Priests and Kings all, and shall raigne on Earth, <hi>Rev.</hi> 5 10. Than shall be fulfilled that <hi>Ier.</hi> 31. 34. till than, we must be under Teaching, Baptisme, Church-fellowship, &amp;c. all blessed Ordinances. Than also shall be fulfilled that, <hi>Isay</hi> 60. 10. 16. 17. till than, we must be in subjection to worldly Governments, and expect persecutions and misusages, reproaches and abu<g ref="char:EOLhyphen"/>sings in this world.</p>
+            <p>Many more things might be spoken of this Kingdome of Christ; and to confirme each particular mentioned, there might be added a great number of cleare Scriptures, which can be ap<g ref="char:EOLhyphen"/>plyed to other time but this time of Christs Kingdom, which is no novelty, but a truth as ancient as the Prophets and Apo<g ref="char:EOLhyphen"/>stles dayes. Those that reade those places as fulfilled already, make a great part of the Bible uselesse, and misse much of the sweetnesse and comfort of Scripture. There are as many pla<g ref="char:EOLhyphen"/>ces of Scripture pointing to Christs second comming, as to his first, which none can tell what to doe with, unlesse they r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ferr them to this time of Christs comming and Kingdom. Mens be<g ref="char:EOLhyphen"/>ing so shy of this truth (which is a holy sanctifying, comfort<g ref="char:EOLhyphen"/>ing one, pressed by all the holy Prophets and Apostles, for the consolation of the afflicted Saints and Churches in all ages.) have run into miserable absurdities, and put most incongruous interpretations upon many Scriptures, spiritualizing and alle<g ref="char:EOLhyphen"/>gorizing them in such manner that they have robbed them of their true, proper, genuine, litterall sense and meaning, therein giving too great advantage to the <hi>Quakers,</hi> who ignorantly and ridiculously affirme <hi>that all the Scripture is fulfilled in them.</hi> Thus would Satan any way divert the minds of the saints from the expectation of this great glory of <hi>Christ</hi> to be revealed in the world. <hi>The next age shal be clear in th<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> truth.</hi>
+            </p>
+            <pb n="42" facs="tcp:108580:23"/>
+            <p>Not worthy to be compared to the glory of Christs King<g ref="char:EOLhyphen"/>dome is all that we have seen, or shall see and enjoy till than. A vast difference shall be between this present evill world (which is Anti-christs world a base, hypocriticall, unworthy world, it hath ever dealt basely with the saints, and will to the last mo<g ref="char:EOLhyphen"/>ment of it) and that world which is to come, <hi>Heb.</hi> 2 5. which shall be Christs and the Saints world. Than this cursed wicked world, that now with the riches and honour of it, tempteth and deceiveth the Saints, and occasioneth sad falls and scandals oft, besides many variances and contentions among them, shall be changed, and it shall be decked and cloathed with a new glory (such as was in Paradice, therefore called the time of re<g ref="char:EOLhyphen"/>stitution of all things, <hi>Acts</hi> 3. 21.) a glory purposely put on it by Jesus Christ, (fit for his and the Saints royall state and mag<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icence, as in great houses, upon solemne and Festivall dayes, all the best furniture is set out) not such as shall any way tempt to sin, but provoke the blessed Inhabitants of it than (the saints and martyrs of Jesus) to continuall Prayses and Allelujahs.</p>
+            <p>How sanctifying and comfortable to Saints, would be the study of this great point (or promise of the New Heaven and New Earth, 2 <hi>Pet</hi> 3. 13.) and would serve to provoke them to all duties of holinesse, to deaden them to this world, to prepare them for tryalls and sufferings, which are comming? What though they be as poore <hi>Lazarusses</hi> at <hi>Dives</hi> gates in this world? their good things are comming, the worlds good things are pas<g ref="char:EOLhyphen"/>sing away every minute. God intends his saints the greatest height of glory, and he will bring them to it through severall Chambers of glory, every one more stately than other Now they are in their worst and lowest Estate (an Estate of sin and misery) yet now they are Heyres. <hi>Rom.</hi> 8. 17 now they are one with Christ. 1 <hi>Cor.</hi> 6 17. Their first step is into glory; the first moment of their conversion they are translated from Death to Life, 1 <hi>Iohn</hi> 3. 14. Than they come to a better Estate than that, <hi>v. d.</hi> at the day of their death and dissolution, they <hi>shall</hi> be with Christ out of the body, <hi>Phil.</hi> 1. 23. an Estate that none can tell the glory of. Than they come to a better Estate than that, <hi>viz.</hi> in the Kingdom of Christ, after the Resurrection of their bo<g ref="char:EOLhyphen"/>dies (for they <hi>shall</hi> rise first, and every one in his owne order,
+<pb n="43" facs="tcp:108580:23"/> 1 <hi>Thes. 4. 16. 1 Cor 15 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Rev</hi> 20 5.) they <hi>shall</hi> raigne with <hi>Christ</hi> upon Earth in their bodies, <hi>Rev. 5. 10. Dan. 12. 13. Iob. 19. 25. 26 27. Rev,</hi> 20, 4. Yet they shall come to a better Estate than that for after Christ (with all the Saints about him) shall have judged and sentenced all wicked men and Angels which will take a long time, <hi>Eccles 12. 14. Mat. 12. 36. 1 Cor. 6. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3. Rom. 2. 16.) Acts 17 33. Rev.</hi> 20 13. and shall have put down all power and dominion, <hi>Heb.</hi> 2. 8. (and so <hi>shall</hi> have made open shew of all his glory and state, and <hi>shall</hi> have ended all his Trophies in this world, as King of Kings, the onely Potentate, 1 <hi>Tim</hi> 6. 14. 15.) he will than carry them all up with him into the highest Heavens, (his Court above) where God <hi>shall</hi> be all in all for ever. Christs Mediator<g ref="char:EOLhyphen"/>ship than ceasing, 1 <hi>Thes. 4. 17. 1 Car.</hi> 15. 28. That <hi>shall</hi> be the highest degree of their glory, the top of their happinesse, the full and immediate vision and enjoyment of God himselfe, blessed for ever.</p>
+            <div type="summary">
+               <head>The summe of all is,</head>
+               <p>1. THat the Doctrine of Christ, is not like <hi>Mahomets</hi> Do<g ref="char:EOLhyphen"/>ctrine, that was founded by the Sword, and is main<g ref="char:EOLhyphen"/>tained by the Sword; nor like the <hi>Popes</hi> Doctrine that was founded by policy and usurpation, and is maintained the same way; but must onely be taught, perswaded unto, not forced upon the World. 2. That Magistracies and Governments (whatsoever the Persons be by whom the Power is executed) must be obeyed, and all their Laws, Edicts, and Statutes, (in all civill cases) must be highly reverenced, cheerfully submitted unto by all universally. 3. That Magistrates owe universall protection, ought indifferently to administer Justice to all, without respect of the person or Religion of any, for that they are Elected by the World, not by the Church; and in case of Tyranny or mis-government, are accomptable unto the people who intrusted them: And we see how God often strangely stirrs up the people (in whom the fundamentalls of power re<g ref="char:EOLhyphen"/>sides) to chasti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the exorbitancies of Kings and Princes. 4. That Magistrates and Powers have nothing to doe to impose upon the Churches, or to punish any out of the Church, for
+<pb n="44" facs="tcp:108580:24"/> the not subjecting to any Ordinance of <hi>Worship,</hi> the Ecclesi<g ref="char:EOLhyphen"/>asticall power of the <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>wish</hi> Magistrate (which he had onely within that Nationall Church, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without) now ceasing; and therefore now to set up Nationall Churches (as Anti-Christ doth) or association of Churches with the Power of the Magi<g ref="char:EOLhyphen"/>strate interwoven, is to bring in persecution. 5. That the Kingdome of Christ is not any temporall rule or domination of the Saints in this world but is to be in that world to come, when Magistracies and all other Ordinance<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> must be put down, which untill than must all continue in full force.</p>
+            </div>
+            <div type="author_to_the_reader">
+               <head>I shall now onely adde a few <hi>Advertisements</hi> to Professors in these trying and dangerous times.</head>
+               <p>
+                  <hi>Adver.</hi> 1. TO look to keep fast the word of God patience, and not curiously p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the fulfil<g ref="char:EOLhyphen"/>ling of Prophesies, and into what things <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which are not sit for us to know. God will na<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en <gap reason="illegible" resp="#keyers" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>, <hi>Isay 6<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 22. Rev.</hi> 11. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and nothing <hi>shall</hi> his <gap reason="illegible" resp="#keyers" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> have too farr presumed to tell of times and years which God hath reserved among his <hi>Areana <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mperii.</hi> The faylings of eminent men in such cases, as of holy <hi>Brightman</hi> (a darke man we now see in many particulars) may admonish us of sobriety. Many in our times too rashly have Prophesied of things beyond their lyne &amp;c, There were many Prophesies of Christ in the Old Testament, as <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s. 11. 1. Ier.</hi> 31. 15. which could not be un<g ref="char:EOLhyphen"/>derstood, untill Christs first comming, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n expounded, <hi>Mat.</hi> 2. 15 18. So many Prophesies are in the Book of God, which will not be fully understood untill <hi>Christs</hi> second com<g ref="char:EOLhyphen"/>ming, and which will be farr otherwise fulfilled than now they are interpreted, than the whole mystery of God <hi>shall</hi> be ope<g ref="char:EOLhyphen"/>ned and made manifest to all Saints. All the providences that concerns those two different States, <hi>Zyon</hi> and <hi>Babylon,</hi> the Lambe, and the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ast, are wrapt up in Scripture Prophesies, and we may stady them; but they are unfoulded and uns<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aled to us not all at once, but by degrees, to keep us humble, watchfull, observant of providences, the best Expositors of Prophesies.</p>
+               <p>
+                  <hi>Advert.</hi> 2. To be mindfull of the great things God hath
+<pb n="45" facs="tcp:108580:24"/> done for us in <hi>England.</hi> What will be next we know not; the usuall method of divine providence is to make the Enemies of <hi>Zion</hi> the authors of their own ruine, by letting out their lusts, and hardening them, as in <hi>Pharaoh,</hi> the Churches first Enemy; and in <hi>Gog</hi> and <hi>Magog,</hi> her last enemy, <hi>Rev.</hi> 20. 8. Encourage Faith from the consideration of the promises, and whatsoever Providences come, look still at the Promises. Christ must, and will on his way, and beare down all before him.</p>
+               <p>
+                  <hi>Advert.</hi> 3. To look after pure worship and pure ordinances; old customs and traditions will not serve the turne now; and whatsoever hath sprung from the head or hornes of the Beast, will wither. <hi>Dago<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> must fall one way or other before the Ark. Nothing will hold and endure the fire of this day of Tryall and discovery, but what is of pure Gospel-Institution, Scri<g ref="char:EOLhyphen"/>pture-proofe; and probably, great sufferings may yet come to cleer up truths, that now the Saints will scarce heare of. Ac<g ref="char:EOLhyphen"/>compt not any puctilio of obedience, of duty (either of first or second Table, of worship towards God, or of duty towards our relations, as Husbands, Wives, Masters, &amp;c.) small, triviall, needlesse, indifferent, its a signe of a slighty vaine spirit so to doe.</p>
+               <p>
+                  <hi>Advert.</hi> 4. To take heed of admiring the revelations, dreams, high expressions of men or women; we are sufficiently warned of false Prophets to arise in the last dayes. Lets admire the wisedome and love of God speaking to us in holy Scriptures, and keep close to it, as the onely perfect rule how God will be worshipped and served. One line of Scripture, one blessed notion of the Gospel (Christ borne of a Virgin, layd in a Manger; Jesus the Eternall Sonne of God, the Sonne of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> God-Man, Crucified Dead and Buried, raysed again, ascen<g ref="char:EOLhyphen"/>ded, sitting at the right hand of God in Heaven, pleading in<g ref="char:EOLhyphen"/>terceding for poor sinners &amp;c.) is more glorious and ravishing, and provoking the soule to highest admirations, than ten thou<g ref="char:EOLhyphen"/>sand of Revelations and high notions besides, that the most seraphicall spirits praetend unto. After the Book of Revelati<g ref="char:EOLhyphen"/>ons, lets expect, waite for no more Revelations of that kinde. Measure all opinions, worships by the lyne of Scripture, (the infallible writings of the holy Prophets and Apostles, which
+<pb n="46" facs="tcp:108580:25"/> containe expressely the mind and commands of our Lord Jesus Christ) and what way or practize soever (though never so cryed up by godly men) is not sound found agreeing with, and (though never so praetending to antiquity) is not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound to be of the same date with the most holy writings of the Apostles, know it to be a meer humane invention, a novelty, as Popery, and other opinions, under what names or titles soever they goe, are. The great project of Satan in these dayes is, (by transforming himselfe into an Angel of light) to undermine the soveraigne authority of the written Word. Hence he sends out new Emissaries, Waiters, Notionists, Quakers. Were it not but that God is inflicting upon men spirituall judgements for spirituall sins (and it may be afflicting Churches for their want of Love, want of Order; or pride, or dis-esteeme of others, or unfruitfulnesse, and formality, gawdy attire, and fa<g ref="char:EOLhyphen"/>shionings to the world, &amp;c. or else it may be purging Churches of hypocrites, and vaine and light spirits.) it were impossible that ever men that had lived under the sound of the Gospel, should be so deluded, and given up to such a spirit of blasphe<g ref="char:EOLhyphen"/>my. Because the way of those men is so taking and catching an evill, I will take liberty here to shew some of their Princi<g ref="char:EOLhyphen"/>ples, some wayes how men come to fall into that great evill; some praeservatives against that deadly poyson.</p>
+               <p n="1">1. Some of their Principles are these. 1. A slighting of the commands of Christ, as of Water-Baptisme (which binds to the observation of all other commands of <hi>Christ,</hi> and which once slighted, and renounced, all other commands fall with it;) of the Lords Supper, Church fellowship, Sabbath &amp;c. and in stead of obeying these, they wayto for new immediate commands, (which they accompt of equall authority with <hi>Scripture</hi>) as to goe naked at such a place; to goe and speake in such a Parish Assembly, &amp;c. contrary to the Apostles charge to Women, <hi>Tit. 2. 5. 1 Tim.</hi> 5. 13. 14. 15.</p>
+               <p n="2">2. They deny the Flesh or Humane Nature of <hi>Christ Iesus,</hi> (that great Ordinance in which the God head dwells) which was once Crucified, to be now taken up above all Heavens, and pretending onely to a <hi>Christ</hi> within, a Word within, a Baptisme within, 2 Sabbath within; dis-owne those without them. Al<g ref="char:EOLhyphen"/>so
+<pb n="47" facs="tcp:108580:25"/> they deny the Resurrection of the same flesh of every man and woman at the last day. The maine Doctrine the Apostles so vehemently Preached, and suffered for. Some of them are not come so high.</p>
+               <p n="3">3. Those men (who are themselves the true servants and bond slaves of sin, not seeing the vildenesse, hypocrisie, pride, &amp;c. of their own hearts) promise their Proselites, perfect mortification and freedom from sin in this life. This is their great <hi>Diana,</hi> which if they have attained unto, it must be pre<g ref="char:EOLhyphen"/>sumed they never have a vaine, worldly, lustfull, doubting, un<g ref="char:EOLhyphen"/>beleeving thought.</p>
+               <p n="4">4. They say, The Scripture is all fulfilled in them, as <hi>Ier.</hi> 31. 34. which hath relation principally to Christs Kingdom.</p>
+               <p n="5">5. They lay clayme to five great points of Popery. Pover<g ref="char:EOLhyphen"/>ty, Infallibility, Unity, Revelations, Selfe-righteousnesse or Perfection. They incline also to a kind of Popish ignorance, for they care to know or beleeve no further, than what is im<g ref="char:EOLhyphen"/>mediately given in, and revealed to them (from that false light of naturall reason and conscience within them) without the <hi>Scripture,</hi> accompting all that is so revealed to be infallible; they will not studdy, search into truth or falsehood, reade and examine things that differ, according to that great Canon of the Apostle, 1 <hi>Thes. 5. 21. 1 Iohn 4. 1. Prove all things. Try the Spirits;</hi> that is, lay them in the ballance, hold them up in the Sunne-beames of <hi>Scripture,</hi> the onely touch-stone of Do<g ref="char:EOLhyphen"/>ctrine, <hi>Heb. 4. 12. 13. 1 Iohn 4. 6. 2 Iohn</hi> 10.</p>
+               <p>2. The wayes how men come to fall into this great evill. The Devill layes his temptations to this Apostacy in severall methods, according to mens severall tempers, inclinations and humors; but to all he comes with the Monkes Cowle on him, pretending a state of perfect selfe-denyall and mortification.</p>
+               <p>They are subject to catch this infection. 1. <hi>That have itch<g ref="char:EOLhyphen"/>ing ears,</hi> 2 Tim. 4 3. <hi>heaping to themselves</hi> Teachers <hi>after their owne lusts disorderly running after gifts, &amp;c.</hi> not content with the Doctrine of the Church, the bread of Gods house (in which is food sufficient) which is most nourishing, though it may seem but course.</p>
+               <p>2. Such as studdy not, examine not, pray not over what
+<pb n="48" facs="tcp:108580:26"/> they heare, but (too much magnifying men, thinking of them above what is meet) pin all their Faith on the Ministers sleeve, and take all upon trust, as if the Pulpit were the chaire of in<g ref="char:EOLhyphen"/>fallibility.</p>
+               <p>3. Such as have suddenly and rashly taken up Ordinances from custome, or from respects to mens persons, their gifts and parts, or other carnall ends, and not from sights of the autho<g ref="char:EOLhyphen"/>rity of Christ stamped upon them, and from full convictions.</p>
+               <p>4. Such as have great affections, and little judgement, must have their affections stirred in a duty, must have humblings, meltings, &amp;c. else they throw all away.</p>
+               <p>5. Proud spirits, that cannot beare the infirmities of saints, because they see not their own. They had great desires to come into a Church, and seeing so many infirmities (which will be in the best Churches) reject them; which is, as if a man that had married a woman, should cast her off for some infirmity he now sees. Christ doth not doe so with his Churches and saints; the purest spirits have their spots and blemishes; and eminent graces may be mixt with great corruptions; and its better to be of a Church of the most infirme saints, than of a Church of Angels, where there were no need of exercising those pre<g ref="char:EOLhyphen"/>tious graces of love and forbearance.</p>
+               <p>6. Prejudiced spirits, prejudiced at the meane and low gifts of the Church; whereas if they be stronger, they may help to strengthen others; if weaker, they may be strengthened by others.</p>
+               <p>7. Darke fruitlesse spirits, that goe from mountaine to hill, from Ordinance to Ordinance to seeke rest, and goe not to Christ, and finding no present good in any Ordinance, cast off all.</p>
+               <p>8. Discontented spirits, discontented with their spirituall conditions, whom nothing will serve but high and glorious ma<g ref="char:EOLhyphen"/>nifestations, a most dangerous temptation. Its better to trust God upon a bare promise, and waite his leisure, than to have the gloriousest manifestations. Again, they finde powerfull stir<g ref="char:EOLhyphen"/>rings of corruptions, notwithstanding all their duties, and so desiring a greater degree of mortification than God sees fit for them, fall into this snare of Satan. God could in a moment
+<pb n="49" facs="tcp:108580:26"/> make us perfect, if he pleased, as he did <hi>Adam;</hi> but he suffers sin to be in us, and to act strongly, that we might admire par<g ref="char:EOLhyphen"/>doning love and grace. No greater perfection I know attain<g ref="char:EOLhyphen"/>able in this life, than to be dayly mourning, and shaming ones selfe before Christ for sinn, and yet dayly beleeving on Christ for pardon; and better it is to be striving, groaning, Praying under a corruption, than to have it (if possible) to<g ref="char:EOLhyphen"/>tally removed, 2 <hi>Cor.</hi> 12. 8. 9.</p>
+               <p>3. The Preservatives against this Apostacy. 1. To keep high prizings of all Ordinances, (especially of the holy and blessed Scriptures) which to carnall eyes seem poor low things, as Christs Person did to the Scribes and Pharisees, and to <hi>Herod,</hi> and his men of warr, <hi>Luke</hi> 24. 11. but they are more preti<g ref="char:EOLhyphen"/>ous then all the gold of <hi>Ophir,</hi> or then all revelations. Christ hath left them to his Churches; as memorialls of his death, and tokens of his love, pledges of his presence with them, untill his comming again in Person, <hi>Mat.</hi> 28. ult. 1 <hi>Cor.</hi> 11. 32. Alas, what is dipping in Water, eating a bit of Bread, drink<g ref="char:EOLhyphen"/>ing a sup of Wine; as <hi>Naaman</hi> said, 2 <hi>Kings 5. 11. Are not the Waters of Damascus better than Iordan?</hi> To a meer rationall man <hi>Aristotles</hi> Ethices, <hi>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceroes</hi> Orations, were better than Teaching and Preaching.</p>
+               <p>The Papists therefore, to make Ordinances more taking to Flesh and Blood, cloathe them with many pompous Ceremo<g ref="char:EOLhyphen"/>nies, which is to dishonour them. Its onely the Word and com<g ref="char:EOLhyphen"/>mand of Christ that puts glory and lustre upon them. Faith eyes the command onely, and the promise annexed, not the meanesse or excellency of the Administrator. Its the greatest selfe-deniall to submit to such low things as Ordinances, (with respect to Christs command onely) which a proud heart is so ready to slight and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ast off.</p>
+               <p>2. To entertaine truths not with respect to mens persons and gifts, but to their own native excellency and lustre, and seeing how they lye couched in the originall and first coppy of all truths, <hi>vid.</hi> The Scriptures, or Written Word. Truths, as Jewels, are, and should be, accounted pretious, what hand soever reaches them out. They are not lesse pretious (suppose) in a wooden hand; nor more pretious if offered in a golden hand.</p>
+               <pb n="50" facs="tcp:108580:27"/>
+               <p>3. To keep alwayes a holy feare in the sense of our owne weaknesse, and Satans wiles and artifices; he hath gone beyond stronger than we, as we see in <hi>Peter, &amp;c.</hi>
+               </p>
+               <p>4. To beware of unholinesse, and close sins, as slightinesse of spirit &amp;c. they will pave the way to error. A slighty carelesse heart, will be a dead, fruitlesse heart, and that will be fit soyle for the Devill to sow his Cockie in.</p>
+               <p>5. To take heed of prejudice at the infirmities of the saints, at the meannesse of the gifts or graces of the Church. To nou<g ref="char:EOLhyphen"/>rish a speciall frame of love towards the Church, and towards all saints, to esteem of others better than our selves, 1 <hi>Iohn</hi> 2. 10. Thou sees another carnall, proud. Thinke, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but I have a more carnall, proud heart than he. Thinke worst of thy selfe. If thou seest not worse things in thy selfe, than in any other in the world, thou art a proud spirit. Thou seest another that is low in gifts, doe not dis-esteem him, he may have a more sin<g ref="char:EOLhyphen"/>cere heart than thou.</p>
+               <p>6. Though thou finde no good, no comfort in Ordinances, as thou thinkest; yet practise them because of Christs blessed command. Hypocrites will follow Christ for the Loaves Pure love will obey Christ, though it should have no in-comes. To doe all duties meerly from Christs command, as if one had all the highest enlargements and manifestations in the world, is true Gospel obedience.</p>
+               <p>7. Know, whatsoever pretends to be a voyce from God, and is not according to a New Testament dispensation, is from Sa<g ref="char:EOLhyphen"/>tan. All Old Testament speakings by Angels, Dreames, Reve<g ref="char:EOLhyphen"/>lations, are ceased, now that God hath spoken to us by his Sonne Jesus, in his blessed Word, <hi>Heb.</hi> 1. 1. 2. whose Voyce we must onely heare, not <hi>Moses</hi> or <hi>Elias, Marke</hi> 9. 8 not the false Oracles of our owne hearts, which suggest naturally the most wicked, abominable things, which if others should know, would make the best of us blush, and appeare like Devills to others.</p>
+               <p>8. Looke as well to the Ordinances of the Gospel, Bap<g ref="char:EOLhyphen"/>tisme, Lords Supper, as the graces of the Gospel, Repentance and Faith. God hath joyned them together, <hi>Acts</hi> 2. 38. he that will cast off the one, will cast off the other also.</p>
+               <pb n="51" facs="tcp:108580:27"/>
+               <p>9. To keep a dayly sense of our sins, of our need of Christs blood, righteousnesse, intercession, advocateship, seeking our salvation out of our selves in a crucified Christ onely.</p>
+               <p>10. To practize Ordinances, not idolize them, such will soonest cast them off, as set them above their place. Especially to be much in closet-prayer; if that be sweet, it will keep the heart right in all other Ordinances; decline in that, and decline in all.</p>
+               <p>11, To minde Christs charge, <hi>Mat.</hi> 24. 26. Goe not forth, keep within the fold of the Church. Take heed of <hi>Dinah</hi>-like gaddings and wandrings. Let the breasts of the church satisfie thee alwayes, and neglect no opportunity of worship and com<g ref="char:EOLhyphen"/>munion with the church. The more thou art in Gods house, the more sweetnes thou shalt find in it. <hi>I</hi> God is now clearing up Ordinances and truths of worship (which Anti-christ hath long corrupted) and Satan would pull downe all. God is clear<g ref="char:EOLhyphen"/>ing up Scripture, and Satan would perswade to throw it away, and waite for immediate commands. Worldly preferments have undone many, and now <hi>Satan</hi> would cheate men by vo<g ref="char:EOLhyphen"/>luntary humility and poverty. He cannot reach us by persecu<g ref="char:EOLhyphen"/>tion, and now he would undermine us by perfection, counter<g ref="char:EOLhyphen"/>feit selfe-denyall, &amp;c. He will cause men throw away their gaudy cloathes, but keep their pride under another name; and spirituall pride is his darling sinne, and will usher in all sinne. Its confessed, those who thus cast off <hi>Churches, Ordinances, Scripture,</hi> are in very great danger of arriving at Atheisme by insensible degrees, and then of breaking out into Rantisme, and the grossest sort of prophanesse (whereby they may justly fall under the Magistrates Sword) yet ought we to hope and judge charitably of such as are fallen, and pray for them. It was <hi>Novatus</hi> opinion, <hi>such as fell from the Church, could not be re<g ref="char:EOLhyphen"/>stored;</hi> but God is able to make them rise; yea, such as belong to <hi>Christ,</hi> shall not, cannot fall finally; nay, when they fall, they shall alwayes rise with their graces more glorious and bright than before. <hi>I</hi> And lets not be praejudiced at truth, because some forsake it. <hi>Judas</hi> must come from among the Apostles, not the Scribes and Pharisees. The Devill by these wiles and methods, doth not strike at Atheists, Papists, loose prophane
+<pb n="52" facs="tcp:108580:28"/> worshippers, (who are not better to be liked because they turn not <hi>Quakers</hi>) but at the strictest sort that professe mortificati<g ref="char:EOLhyphen"/>on, heavenly mindednesse, and at <hi>Churches,</hi> against whom his principall grudge is.</p>
+               <p>But by all these errors, God will doe his <hi>Saints and Churches</hi> good. 1 <hi>Cor. 11. there must be Haeresies.</hi> Errors shall help to cleare up truths, as sinne by divine wisedome (which brings the best things out of the worst) doth oft worke to mortifie sin. There is no error but hath some semblance of truth, and the greater semblance the more dangerous. Many false Christs were before Christ; many errors may praecede, as well as fol<g ref="char:EOLhyphen"/>low after the bringing forth of truth.</p>
+               <p>Impute not these sad Apostacies to the times; men were false in their profession, rotten at the heart before these times, and now these times doe but onely discover them, not make them such. These are no new strange things, it was so in the very Apostles dayes, multitudes, swarmes of Professors <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell off, in <hi>Christs</hi> time, <hi>Iohn</hi> 6. 66. in <hi>Pauls</hi> time, 2 <hi>Tim.</hi> 1. 15. after<g ref="char:EOLhyphen"/>ward in <hi>Iohns</hi> time many false Prophets, Anti-christs, went out of Churches, 1 <hi>Iohn 2. 18. 19. 1 Iohn</hi> 4. 1.</p>
+               <p>
+                  <hi>Advert.</hi> 5. To take heed of joyning carnall Interests any way with Religion, they will make a carnall Religion. What formality, worldly-mindednesse, what decay in holinesse and love is crept into <hi>Churches,</hi> by complyances with worldly pow<g ref="char:EOLhyphen"/>ers? Those who weave carnall Interests with Christs Interest, will undoe themselves in the end. Its dangerous and uncomely for men that praetend <hi>Christs</hi> Interest, to seek their own. He that thinks to get carnall advantages by his Religion, is not right in his Religion. Religion that hath any thing besides <hi>Christ</hi> (his love, his commands) at the bottome, will change and alter with the times, and fall at last, like the house built on the sand. Miserable to have any Interest in these times, but purely Christs which lyes not in the things of this world, but in righteousnesse, holinesse, and joy in the holy Ghost.</p>
+               <p>
+                  <hi>Advert.</hi> 6. To take heed of carnall policy. Polititians will never see farre into glorious providences, nor embrace poore truths that goe in raggs, and are commonly held forth at first by the weakest hands. Professors are growne such politique
+<pb n="53" facs="tcp:108580:28"/> sticklers in the VVorld, that either this Generation must be brought through a hotter furnace, or else we must to our graves; and God will rayse up another Generation of more pure, refined Evangelicall Principles.</p>
+               <p>
+                  <hi>Advert.</hi> 7. To take heed of carnall expectations; many have taken up profession, as the <hi>Sichemites</hi> did Circumcision, <hi>Gen.</hi> 34, 23. meerly as an engine to hooke in preferment. Sad to see men that talke big of Crownes of glory, greedy after those things, which are fitter for fawning <hi>Ziba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> to seek after, 2 <hi>Sam.</hi> 16. 1. &amp;c. It had been happy for many professors, if they had never known the employments, preferments of these times; few have medled, but they have lost by them, and been defiled one way or other. How many hath this tayle of the Dragon cast downe to the Earth? Error hath slain its thou<g ref="char:EOLhyphen"/>sands, but the world its ten thousands. No more dangerous and unsavoury man one can meet with, than a Professor that hath the world at the root of his heart.</p>
+               <p>
+                  <hi>Advert.</hi> 8. To take heed of offences, at the falls of Profes<g ref="char:EOLhyphen"/>sors, <hi>Mat.</hi> 18. 7 Glorious starrs have fallen, and set in darke<g ref="char:EOLhyphen"/>nesse. The world, the wedge of gold, hath undone more than the warrs have: there may be yet greater falls of the highest Professors; and God may suffer such miscarryages to fall out. 1. To humble them more deeply, and to cleare up their gra<g ref="char:EOLhyphen"/>ces. 2. To warne others, to make others feare and tremble. 3. To weane Saints, and call them off from their worldly com<g ref="char:EOLhyphen"/>plyances, imployments, &amp;c. which they have too much sought after. 4. To enrage and harden the world against them. 5. To try true, and scare away false professors of truth. Satan is most busie to tempt Professors of the highest way, that he may dishonour Christ, and his truths. Its a Devill-like temper to rejoyce at the falls of others, though of contrary judgements to us; we should be humble, knowing we have the very same corruptions in us. <hi>Aehans, Iudasses</hi> will be in the Church, and they are none of the meanest rancke of Professors, but such as <hi>Demas</hi> a fellow labourer with the Apostles. Satans Kingdom shall lose much by the very falls of saints, and discovery of hy<g ref="char:EOLhyphen"/>pocrites.</p>
+               <p>
+                  <hi>Advert.</hi> 9. Take heed of trusting too much on Instruments,
+<pb n="54" facs="tcp:108580:29"/> they are broken bowes, have deceived, and will deceive. Christ will breake and use, lay aside, and rayse up Instruments as he pleaseth. He hath used despised ones, and he may yet make choyce of Instruments we least thinke of. He need not want Instruments, he can create them, fit them, make the weake strong, the strong weake.</p>
+               <p>
+                  <hi>Advert.</hi> 10. To take heed of blinde, furious, rash, selfe-en<g ref="char:EOLhyphen"/>ded zeale, censuring and persecuting all others not of our way and judgement. Some devout persons are subject to this fren<g ref="char:EOLhyphen"/>sie, <hi>Acts</hi> 13. 5. &amp; 7. 54. 57. &amp; 26. 11. Zeale is the hottest slaming out of love and affection to <hi>Christ,</hi> his saints and wor<g ref="char:EOLhyphen"/>ship, of hatred and indignation against all sinne, in our selves first and principally. A most pretious grace when it runs in its right channell; but otherwise, a most dangerous wild-fire, when it promps men to wayes of force, violence, rage, cruelty and compulsion; the Gospel perfectly abhors all laws and pra<g ref="char:EOLhyphen"/>ctises of men tending to inflict the least punishment (much more to banish men &amp; cast them into filthy dungeons to dye and perish) for any meerly religious dissents whatsoever. He that would shape a Common-wealth, or civill society of men to the rules and holy praeseriptions of the Gospel, would bring forth a most hideous monster of <hi>Babilonish</hi> confusion and persecution.</p>
+               <p>
+                  <hi>Advert.</hi> 11. To take heed of murmuring, <hi>as some of them murmured, and were destroyed of the destroyer, 1 Cor.</hi> 10. Mur<g ref="char:EOLhyphen"/>murers will never be wise observers, humble admirers, holy im<g ref="char:EOLhyphen"/>provers, comfortable sharers in providences. Say not, Men ex<g ref="char:EOLhyphen"/>alt themselves, <hi>For promotion comes neither from the East nor from the West, nor from the South; but God is the Iudge, he is the Lord of Hosts, he puts downe one, and sets up another, and no man can set up himselfe,</hi> Psal. 75. 6. 7. <hi>Such as walke in pride he will abase,</hi> Dan. 4. 37. <hi>for he that is higher than the highest regard<g ref="char:EOLhyphen"/>eth,</hi> Eccles 5. 8.</p>
+               <p>
+                  <hi>Advert.</hi> 12. To be more watchfull than ever, to keep a holy, humble, pure frame of spirit dis-ingaged from the world long<g ref="char:EOLhyphen"/>ing for the appearing of Christ, that we may every day walke in our Bridall-dresse of holinesse, sit to meet him, <hi>Rev.</hi> 21. 2. longing to see him.</p>
+               <p>
+                  <hi>Advert.</hi> 13. To prepare for greater shakings, not thinking
+<pb n="55" facs="tcp:108580:29"/> any thing sure that stands upon clay. The neerer <hi>Christs</hi> com<g ref="char:EOLhyphen"/>ming, the greater Earth-quakes still. The neerer <hi>Babylons</hi> downfall, the greater confusions. But out of all, brighter glo<g ref="char:EOLhyphen"/>ry shall <hi>breake</hi> forth. The Church, like <hi>Noahs Arke,</hi> may <hi>tosse,</hi> it cannot <hi>sinke</hi> This <hi>worke</hi> will yet puzzle all the reason and wisedome of men. Out of confusion, God brings order. Our <hi>black-st</hi> houre, will be neerest the appearing of the bright morning starre, <hi>Rev.</hi> 22</p>
+               <p>
+                  <hi>Advert.</hi> 14. To be subject to all the Governments and Pow<g ref="char:EOLhyphen"/>ers of this world. <hi>Rom.</hi> 13. 1. not to despise Dominions, or speake evill of Dignities that are over us, <hi>Iude</hi> 8. How ever they use us in this world, to let prayers and giving of thanks be made for them all 1 <hi>Tim.</hi> 3. 1. 2. Let worldly Governments alone to themselves, men will be men and act like poore weake creatures, they are to be pittied, not envied, not reviled. We that stand on low and sure ground, cannot imagine their dangers and temptations. Christ and the Apostles did not med<g ref="char:EOLhyphen"/>dle with Governments. Christ did not strive, neither was his Voyce heard in the street. He would have nothing to doe with Powers and Magistrates, but onely to submit to them, and to suffer by them, leaving us an example what we should doe; he will have the saints to be put in minde to be subject to Princi<g ref="char:EOLhyphen"/>palities and Powers, and to obey Magistrates, <hi>Tim.</hi> 3. 1. though wicked and persecuting.</p>
+               <p>
+                  <hi>Advert.</hi> 15. To pray carnestly that we may see a day of Pentecost, as it were, upon all the Churches, such a powring out of the spirit, such a power and majesty of holinesse upon all the Saints and Churches, as may prophesie to the world (as the buil<g ref="char:EOLhyphen"/>ding of <hi>Noahs Arke</hi> did, concerning the Flood) that Christ is comming, and at hand, and that may even hasten the comming of the day of God, 2 <hi>Pet.</hi> 3. 12. Oh that we may see the spirit of life entering into dying Religion (almost undone with for<g ref="char:EOLhyphen"/>mality, worldly policy, complyances, imployments, prefer<g ref="char:EOLhyphen"/>ments &amp;c) and the witnesses standing upon their feet, witnes<g ref="char:EOLhyphen"/>sing to all the truths of the Gospel by subjecting to all Ordi<g ref="char:EOLhyphen"/>nances of worship, and by love, holinesse, heavenly-minded<g ref="char:EOLhyphen"/>nesse in their communions, conversations and callings Pro<g ref="char:EOLhyphen"/>fession is a poore thing in these dayes, and an easie thing;
+<pb n="56" facs="tcp:108580:30"/> its easie for a man that hath a good wit and memory, to speake well and fluently; but to love Christ, and all the poore Saints to be crucified, and mortified to this world, to retaine alwaye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a holy feare and shamefastnesse in the sense of our own vilde<g ref="char:EOLhyphen"/>nesse, before the infinite holinesse, majesty, dreadfulnesse o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, to be subject to the will of God in all crosse providen<g ref="char:EOLhyphen"/>ces, love and prayse him in all afflictions, rejoyce in all condi<g ref="char:EOLhyphen"/>tions, converse much with him in secret and unseen duties, in fervent prayer, studious reading of the Scripture; strict selfe examination, &amp;c. thats true Religion. Alas! we have onely the coates and garments of Religion to shew, her ornaments, (gifts and parts) but the life and spirit of her is even gone we may weep over her reliques. Were Christ now to come, how few of us professors would be found in peace, and having on our New Hierusalem spirits; but rather grubbing, and del<g ref="char:EOLhyphen"/>ving deep in the Earth. Alas! how have we professors made Religion to stinke by our pride, luxury, covetousnesse, seeking places, offices, and our own carnall interests, <hi>making</hi> gain of godlinesse, affecting greatnesse and seigneury in this world, so as it may be justly feared, the next storme will fall upon us? Oh when shall we see Zion arise out of the dust, and put on her beautifull garments, cloathed with the Sunne; having the Moone under her feet?</p>
+               <p>The 16. and last <hi>Advert.</hi> To pray continually as <hi>Christ</hi> hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aught us, <hi>Thy Kingdome come,</hi> that glorious Kingdome, which shall be the fifth Monarchy, and shall <hi>breake</hi> to pieces all other Governments and Kingdoms, <hi>Dan.</hi> 2. 44. and will not leave a crowne, or a throne standing in all the world besides its selfe That day shall be the worlds glorious spring-time, and restit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion, the Saints great Sabbath, and Jubilee; which this whos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> present groaning creation longeth to see, <hi>Rom.</hi> 8. 21. 22. 23. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the interim, this world shall be bur a Hell, a Dungeon, a plac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of torment to the Saints; for Christs Kingdom is not of thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> world, <hi>Iohn 18. 36. Mat.</hi> 20. 25. Christ hath promised, trib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lation in it, <hi>John</hi> 16. 33. Let Nations set up vvhat formes of government they please (whic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are all lawfull, and must be submitted unto as Ordinances of God: <hi>For there is no powty <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of God,</hi> Rom. 13. 1.) they will all be found afflicting (some more, some lesse) to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Saints, till Christ, the desire of all Nations, come: he onely <hi>shall judge the world in right<g ref="char:EOLhyphen"/>ousnesse, he onely shall minister Iudgement to the people in uprightnesse,</hi> Psal. 8. 9. &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. 9.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108580:30"/>
+         </div>
+      </body>
+   </text>
+</TEI>
